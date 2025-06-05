@@ -19,7 +19,9 @@ export const GitHubFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>> =
   return {
     name: "GitHubFlavoredMarkdown",
     markdownPlugins() {
-      return opts.enableSmartyPants ? [remarkGfm, smartypants] : [remarkGfm]
+      return opts.enableSmartyPants
+        ? [remarkGfm, [smartypants, { dashes: "oldschool" }]]
+        : [remarkGfm]
     },
     htmlPlugins() {
       if (opts.linkHeadings) {
