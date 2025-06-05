@@ -1,0 +1,5 @@
+---
+authors: 
+published: 
+created: "{{date}}"
+---
