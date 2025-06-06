@@ -1,0 +1,17 @@
+Books I read in [[2025]].
+
+- [[(2023) Recoding America]]
+- [[(2023) The City and its Uncertain Walls]]
+- [[(2025) Why Nothing Works]]
+- [[(2025) Abundance]]
+- [[(2024) Nuclear War; A Scenario]]
+- [[(1992) The End of History and the Last Man]]
+- [[(2009) Capitalist Realism]]
+- [[(2025) Coming Clean]]
+- [[(2011) Freedom Betrayed]]
+- [[(2024) On Settler Colonialism]]
+- [[(2024) Perfection]]
+- [[(1983) La Place]]
+- [[(1979) The Culture of Narcissism]]
+- [[(2005) La Possibilité d’une île]]
+- [[(2022) The Mexican Economy - Enrique Cardenas]]
