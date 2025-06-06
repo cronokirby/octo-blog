@@ -1,3 +1,9 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+#quartz-body > .center > * {
+  min-width: 100%;
+  max-width: 65ch; /* Approximately 80 characters */
+  margin-left: auto;
+  margin-right: auto;
+}
