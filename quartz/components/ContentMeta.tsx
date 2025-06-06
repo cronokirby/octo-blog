@@ -33,34 +33,13 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
   const authorLinksComponent = AuthorLinks({ showComma: options.showComma })
 
   function ContentMetadata({ cfg, fileData, displayClass, ...rest }: QuartzComponentProps) {
-    // Debug output to console
-    console.log("ContentMeta fileData:", {
-      slug: fileData.slug,
-      frontmatter: fileData.frontmatter,
-      hasAuthors: Boolean(fileData.frontmatter?.authors),
-      authorType: fileData.frontmatter?.authors ? typeof fileData.frontmatter.authors : null,
-      hasText: Boolean(fileData.text),
-      hasDates: Boolean(fileData.dates)
-    })
-    
     const segments: (string | JSX.Element)[] = []
 
-    // Display authors if enabled and available
-    if (options.showAuthors && fileData.frontmatter?.authors) {
-      const authorLinks = authorLinksComponent({ cfg, fileData, displayClass, ...rest })
-      console.log("Author component result:", authorLinks)
-      if (authorLinks) {
-        // Add authors section
-        segments.push(
-          <span class="authors">
-            {authorLinks}
-          </span>
-        )
-      }
-    }
+    // Display date and reading time
+    const dateAndReadingTime: (string | JSX.Element)[] = []
 
     if (fileData.dates) {
-      segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
+      dateAndReadingTime.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
     }
 
     // Display reading time if enabled and text is available
@@ -69,25 +48,49 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
         minutes: Math.ceil(minutes),
       })
-      segments.push(<span>{displayedTime}</span>)
+      dateAndReadingTime.push(<span>{displayedTime}</span>)
     }
 
-    // Filter out any null segments (like if AuthorLinks returned null)
-    const filteredSegments = segments.filter(Boolean)
-    console.log("Filtered segments:", filteredSegments.length)
+    // First put authors if available (this ensures they appear first)
+    if (options.showAuthors && fileData.frontmatter?.authors) {
+      const authorLinks = authorLinksComponent({ cfg, fileData, displayClass, ...rest })
+      if (authorLinks) {
+        // Add authors section as the first item
+        segments.push(
+          <p show-comma={options.showComma} class={classNames(displayClass, "content-meta", "author-meta")}>
+            <span class="authors">
+              {authorLinks}
+            </span>
+          </p>
+        )
+      }
+    }
 
-    if (filteredSegments.length > 0) {
-      return (
+    // Then add date and reading time in their own segment
+    if (dateAndReadingTime.length > 0) {
+      segments.push(
         <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
-          {filteredSegments}
+          {dateAndReadingTime}
         </p>
       )
+    }
+
+    // Filter out any null segments
+    const filteredSegments = segments.filter(Boolean)
+
+    if (filteredSegments.length > 0) {
+      return <>{filteredSegments}</>
     }
     
     return null
   }
 
-  ContentMetadata.css = style
+  // Add some additional CSS for spacing between author and date sections
+  ContentMetadata.css = style + `
+  .author-meta {
+    margin-bottom: 0.25rem;
+  }
+  `
 
   return ContentMetadata
 }) satisfies QuartzComponentConstructor
