@@ -15,3 +15,4 @@ Books I read in [[2025]].
 - [[(1979) The Culture of Narcissism]]
 - [[(2005) La Possibilité d’une île]]
 - [[(2022) The Mexican Economy - Enrique Cardenas]]
+- [[(2024) America América]]
