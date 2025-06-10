@@ -2,20 +2,19 @@
 created: 2025-06-08
 tags:
   - blockchain
-publish: "false"
 ---
 Bridges enable users to transfer assets between blockchains. Without them, you cannot have an ecosystem of cooperative applications and use-cases, and are stuck in zero-sum competition. The way bridges handle and present risk passes the buck far too much onto users, leading to economic inefficiency, and bad user experience.
 
-Bridging between blockchains should be seamless ; ideally, to the point that users need not even be aware that they are bridging in order to perform an action. That this is not currently possible is largely the result of minor technical problems (when you observe lingering fruits in a garden, they hide a deeper issue of social coordination). However, once these problems are solved, we will be constrained by a far trickier problem: *risk*.
+Bridging between blockchains should be seamless, ideally so much as to let users not know or care that an action requires it. That this has not been achieved is largely the result of minor technical problems. That they stem from a deeper issue of social coordination, I leave to future writing. However, once these problems are solved, we will be constrained by a far trickier problem: *risk*.
 
-To a large extent, we are afraid of not exposing the details of the bridge to the user, as an action they bear the responsibility of taking, because we are not confident in the bridge. We fear that the bridge may have a security flaw, allowing attackers to steal the funds locked in the bridge, or mint arbitrary funds on the other end ; more benignly, we fear that the bridge will simply not work, with funds getting stuck, and we need to expose exactly what is happening, so that we don’t have to trust a system to resolve issues autonomously.
+To a large extent, we are afraid of not exposing the details of the bridge to the user, as an action they bear the responsibility of taking, because we are not confident in the bridge. We fear that it may have a security flaw, allowing attackers to steal the funds it secures, or mint arbitrary tokens on the other end; more benignly, we fear that it will simply not work, will get stuck, and we need to expose exactly what is happening, so that we don’t have to trust a system to resolve issues autonomously.
 
 Passing the buck to users to manage the risk of bridging is the most common approach I’ve seen, among other bad ones which include:
 - mitigation by locking up funds, allowing time to deter or react to crises,
 - restrictions on capacity,
 - simply ignoring the risk, which is often the main counterpart to exposing everything to users and wiping your hands clean.
 
-This is not to denigrate security mechanisms and fallbacks, but rather to emphasize that they are indeed fallbacks, and should be seen as safeguards against extraordinary situations, and not the primary mechanism of dealing with risk. They can reduce risk by averting catastrophe, but some risk can linger, and likely always will. We should deal with it not by passing it on to the user, but by internalizing it into our protocols in a timeless way: credit.
+This is not to denigrate security mechanisms and fall-backs, but rather to emphasize that they are indeed fall-backs, and should be seen as safeguards against extraordinary situations, and not the primary mechanism of dealing with risk. They can reduce risk by averting catastrophe, but some risk can linger, and likely always will. We should deal with it not by passing it on to the user, but by internalizing it into our protocols in a timeless way: credit.
 
 The risk of bridged funds stems from an old issue: if someone promises to pay me back, how do I know they will? This is the issue of credit, and we’ve developed simple but effective tools to issue credit at scale. The core idea of our solutions is that in the same way that one person’s word may not be as good as another's, one person’s money isn’t either. We value untrustworthy sources of funds less than trustworthy ones, and require higher interest to compensate us for the risk of holding the buck.
 
