@@ -1,7 +1,12 @@
 Books I read in [[2025]].
 
-- [[(2023) Recoding America]]
+# Fiction
 - [[(2023) The City and its Uncertain Walls]]
+- [[(1983) La Place]]
+- [[(2024) Perfection]]
+- [[(2005) La Possibilité d’une île]]
+# Non-Fiction
+- [[(2023) Recoding America]]
 - [[(2025) Why Nothing Works]]
 - [[(2025) Abundance]]
 - [[(2024) Nuclear War; A Scenario]]
@@ -10,9 +15,16 @@ Books I read in [[2025]].
 - [[(2025) Coming Clean]]
 - [[(2011) Freedom Betrayed]]
 - [[(2024) On Settler Colonialism]]
-- [[(2024) Perfection]]
-- [[(1983) La Place]]
 - [[(1979) The Culture of Narcissism]]
-- [[(2005) La Possibilité d’une île]]
 - [[(2022) The Mexican Economy - Enrique Cardenas]]
+
+# Short Stories
+- [[(1887) A Study in Scarlet]]
+- From: [[(2005) The Best of the Best Science Fiction]]
+	- [[(1983) Blood Music]]
+	- [[(1984) A Cabin on the Coast]]
+	- [[(1984) Salvador]]
+
+# Dropped
+I don’t aim to finish all the books I read. If anything, I aim to drop books early if I’m not clicking with them, despite an honest effort ; they will be there to read again some day.
 - [[(2024) America América]]

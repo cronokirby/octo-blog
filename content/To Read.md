@@ -1,0 +1,4 @@
+- [[(2025) If There Were No Journalism, how Would we Find Out?]]
+	- Seems like an interesting article about the information crisis of our age.
+- https://oxcaml.org/
+	- Could inform my thoughts on better language design.
