@@ -1,5 +1,5 @@
 ---
-published: "2025-03-07: received"
+published: "2025-03-07"
 link: "https://eprint.iacr.org/2025/437"
 authors: ["[[Antonio Flórez-Gutiérrez]]", "[[Yosuke Todo]]"]
 tags: ["cryptography", "paper"]

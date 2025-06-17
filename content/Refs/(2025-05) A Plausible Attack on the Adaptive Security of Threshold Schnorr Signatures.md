@@ -1,5 +1,5 @@
 ---
-published: "2025-05-30: received"
+published: "2025-05-30"
 link: "https://eprint.iacr.org/2025/1001"
 authors: ["[[Elizabeth Crites]]", "[[Alistair Stewart]]"]
 tags: ["cryptography", "paper"]

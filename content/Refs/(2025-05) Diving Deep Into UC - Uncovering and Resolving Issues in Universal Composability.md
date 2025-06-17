@@ -1,5 +1,5 @@
 ---
-published: "2025-05-22: received"
+published: "2025-05-22"
 link: "https://eprint.iacr.org/2025/934"
 authors: ["[[Céline Chevalier]]", "[[Éric Sageloli]]"]
 tags: ["cryptography", "paper"]

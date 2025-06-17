@@ -1,8 +1,9 @@
 ---
-published: "2024-10-09: received"
+published: "2024-10-09"
 link: "https://eprint.iacr.org/2024/1609"
 authors: ["[[Martijn Brehm]]", "[[Binyi Chen]]", "[[Ben Fisch]]", "[[Nicolas Resch]]", "[[Ron D. Rothblum]]", "[[Hadas Zeilberger]]"]
-tags: ["cryptography", "paper"]---
+tags: ["cryptography", "paper"]
+---
 
 # Abstract
 

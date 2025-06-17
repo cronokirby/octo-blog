@@ -1,5 +1,5 @@
 ---
-published: "2025-03-25: received"
+published: "2025-03-25"
 link: "https://eprint.iacr.org/2025/554"
 authors: ["[[Joseph Jaeger]]", "[[Akshaya Kumar]]"]
 tags: ["cryptography", "paper"]

@@ -1,8 +1,9 @@
 ---
-published: "2024-03-15: received"
+published: "2024-03-15"
 link: "https://eprint.iacr.org/2024/450"
 authors: ["[[Ward Beullens]]", "[[Lucas Dodgson]]", "[[Sebastian Faller]]", "[[Julia Hesse]]"]
-tags: ["cryptography", "paper"]---
+tags: ["cryptography", "paper"]
+---
 
 # Abstract
 

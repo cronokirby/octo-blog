@@ -1,5 +1,5 @@
 ---
-published: "2025-05-07: received"
+published: "2025-05-07"
 link: "https://eprint.iacr.org/2025/814"
 authors: ["[[Luca Campa]]", "[[Arnab Roy]]"]
 tags: ["cryptography", "paper"]

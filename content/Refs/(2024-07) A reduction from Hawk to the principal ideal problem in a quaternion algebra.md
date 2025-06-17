@@ -1,8 +1,9 @@
 ---
-published: "2024-07-15: received"
+published: "2024-07-15"
 link: "https://eprint.iacr.org/2024/1147"
 authors: ["[[Clémence Chevignard]]", "[[Pierre-Alain Fouque]]", "[[Guilhem Mureau]]", "[[Alice Pellet-Mary]]", "[[Alexandre Wallet]]"]
-tags: ["cryptography", "paper"]---
+tags: ["cryptography", "paper"]
+---
 
 # Abstract
 

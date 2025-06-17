@@ -1,8 +1,9 @@
 ---
-published: "2024-12-09: received"
+published: "2024-12-09"
 link: "https://eprint.iacr.org/2024/1988"
 authors: ["[[Hanlin Liu]]", "[[Xiao Wang]]", "[[Kang Yang]]", "[[Yu Yu]]"]
-tags: ["cryptography", "paper"]---
+tags: ["cryptography", "paper"]
+---
 
 # Abstract
 

@@ -1,5 +1,5 @@
 ---
-published: "2025-06-09: received"
+published: "2025-06-09"
 link: "https://eprint.iacr.org/2025/1085"
 authors: ["[[Thibauld Feneuil]]", "[[Matthieu Rivain]]"]
 tags: ["cryptography", "paper"]
