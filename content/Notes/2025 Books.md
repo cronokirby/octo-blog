@@ -5,6 +5,7 @@ Books I read in [[2025]].
 - [[(1983) La Place]]
 - [[(2024) Perfection]]
 - [[(2005) La Possibilité d’une île]]
+- [[(1953) Go Tell It on the Mountain]]
 # Non-Fiction
 - [[(2023) Recoding America]]
 - [[(2025) Why Nothing Works]]
