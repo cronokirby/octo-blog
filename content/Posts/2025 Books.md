@@ -1,3 +1,7 @@
+---
+created: 2025-01-01
+---
+
 Books I read in [[2025]].
 
 # Fiction
@@ -6,6 +10,7 @@ Books I read in [[2025]].
 - [[(2024) Perfection]]
 - [[(2005) La Possibilité d’une île]]
 - [[(1953) Go Tell It on the Mountain]]
+- [[(1991) Searoad]]
 # Non-Fiction
 - [[(2023) Recoding America]]
 - [[(2025) Why Nothing Works]]
