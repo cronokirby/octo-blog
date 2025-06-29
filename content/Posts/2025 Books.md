@@ -23,6 +23,8 @@ Books I read in [[2025]].
 - [[(2024) On Settler Colonialism]]
 - [[(1979) The Culture of Narcissism]]
 - [[(2022) The Mexican Economy - Enrique Cardenas]]
+- [[(1973) Competition and Entrepreneurship]]
+- [[(2022) The Right]]
 
 # Short Stories
 - [[(1887) A Study in Scarlet]]
