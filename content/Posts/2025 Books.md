@@ -11,6 +11,7 @@ Books I read in [[2025]].
 - [[(2005) La Possibilité d’une île]]
 - [[(1953) Go Tell It on the Mountain]]
 - [[(1991) Searoad]]
+- [[(1971) The Lathe of Heaven]]
 # Non-Fiction
 - [[(2023) Recoding America]]
 - [[(2025) Why Nothing Works]]
