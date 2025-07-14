@@ -13,6 +13,8 @@ Books I read in [[2025]].
 - [[(1991) Searoad]]
 - [[(1971) The Lathe of Heaven]]
 - [[(1929) The Sound and The Fury]]
+- [[(2021) Five Decembers]]
+- [[(1989) Remains of the Day]]
 # Non-Fiction
 - [[(2023) Recoding America]]
 - [[(2025) Why Nothing Works]]
@@ -27,6 +29,7 @@ Books I read in [[2025]].
 - [[(2022) The Mexican Economy - Enrique Cardenas]]
 - [[(1973) Competition and Entrepreneurship]]
 - [[(2022) The Right]]
+- [[(2024) The Anxious Generation]]
 
 # Short Stories
 - [[(1887) A Study in Scarlet]]

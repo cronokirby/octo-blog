@@ -1,3 +1,5 @@
+- https://faiface.github.io/par-lang/introduction.html
+	- [[Par (language)]] seems really interesting, based on [[Linear Types]].
 - [[(2025) If There Were No Journalism, how Would we Find Out]]
 	- Seems like an interesting article about the information crisis of our age.
 - https://oxcaml.org/
