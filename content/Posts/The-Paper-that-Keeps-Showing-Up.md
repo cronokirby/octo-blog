@@ -838,13 +838,6 @@ in this post, such as final exams in cryptography courses :).
 The paper itself is a pretty easy read, so you might want to check that out
 as well, along with the other references.
 
-# References
-
-[^DGSTV18]
-[^GQ88]
-[^Mau09]
-[^PS15]
-
 [^DGSTV18]: [[DGSTV18] Privacy Pass: Bypassing Internet Challenges Anonymously - Alex Davidson, Ian Goldberg, Nick Sullivan, George Tankersly, Filippo Valsorda](https://www.petsymposium.org/2018/files/papers/issue3/popets-2018-0026.pdf)
 [^GQ88]: [[GQ88] A Paradoxical Identity-Based Signature Scheme Resulting from Zero-Knowledge - Louis C. Guillou, Jean-Jacques Quisquater](https://link.springer.com/content/pdf/10.1007/0-387-34799-2_16.pdf)
 [^Mau09]: [[Mau09] Unifying Zero-Knowledge Proofs of Knowledge - Ueli Maurer](https://crypto.ethz.ch/publications/files/Maurer09.pdf)
