@@ -2,7 +2,7 @@
 title: "The Component Pattern"
 date: "2019-05-14 13:57:24+02:00"
 aliases:
-  - "/posts/2019/05/the-component-pattern"
+  - "../posts/2019/05/the-component-pattern"
 tags:
   - "software-architecture"
   - "functional-programming"

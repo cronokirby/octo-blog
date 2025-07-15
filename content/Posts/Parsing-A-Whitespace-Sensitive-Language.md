@@ -2,7 +2,7 @@
 title: "Parsing A Whitespace-Sensitive Language"
 date: "2020-06-03"
 aliases:
-  - "/posts/2020/06/parsing-a-whitespace-sensitive-language"
+  - "../posts/2020/06/parsing-a-whitespace-sensitive-language"
 tags:
   - "parsing"
   - "programming-languages"

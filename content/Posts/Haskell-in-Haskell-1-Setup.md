@@ -2,7 +2,7 @@
 title: "(Haskell in Haskell) 1. Setup"
 date: "2020-11-23"
 aliases:
-  - "/posts/2020/11/haskell-in-haskell-1-setup"
+  - "../posts/2020/11/haskell-in-haskell-1-setup"
 tags:
   - "haskell"
   - "programming-languages"

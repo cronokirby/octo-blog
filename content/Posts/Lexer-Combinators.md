@@ -2,7 +2,7 @@
 title: "Lexer Combinators"
 date: "2020-10-18"
 aliases:
-  - "/posts/2020/10/lexer-combinators"
+  - "../posts/2020/10/lexer-combinators"
 tags:
   - "haskell"
   - "programming-languages"

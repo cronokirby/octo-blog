@@ -2,7 +2,7 @@
 title: "(Basic) Universal Properties in Haskell"
 date: "2020-12-31 13:17:44+01:00"
 aliases:
-  - "/posts/2020/12/basic-universal-properties-in-haskell"
+  - "../posts/2020/12/basic-universal-properties-in-haskell"
 tags:
   - "haskell"
   - "category-theory"

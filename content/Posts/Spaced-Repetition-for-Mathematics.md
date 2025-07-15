@@ -2,7 +2,7 @@
 title: "Spaced Repetition for Mathematics"
 date: "2021-02-14 16:56:45+01:00"
 aliases:
-  - "/posts/2021/02/spaced-repetition-for-mathematics"
+  - "../posts/2021/02/spaced-repetition-for-mathematics"
 tags:
   - "math"
   - "spaced-repetition"

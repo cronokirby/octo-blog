@@ -2,7 +2,7 @@
 title: "Cait-Sith Security (0): Preliminaries"
 date: "2023-04-30 21:50:00+02:00"
 aliases:
-  - "/notes/2023/04/cait-sith-security-0-preliminaries"
+  - "../notes/2023/04/cait-sith-security-0-preliminaries"
 note-tags:
   - "cait-sith"
   - "cryptography"

@@ -2,7 +2,7 @@
 title: "Basic Cryptography Without Fluff"
 date: "2022-07-16 11:24:37+02:00"
 aliases:
-  - "/posts/2022/07/basic-cryptography-without-fluff"
+  - "../posts/2022/07/basic-cryptography-without-fluff"
 tags:
   - "cryptography"
 draft: "False"

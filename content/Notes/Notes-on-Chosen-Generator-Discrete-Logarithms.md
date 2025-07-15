@@ -2,7 +2,7 @@
 title: "Notes on Chosen Generator Discrete Logarithms"
 date: "2022-11-01 18:58:58+01:00"
 aliases:
-  - "/notes/2022/11/notes-on-chosen-generator-discrete-logarithm"
+  - "../notes/2022/11/notes-on-chosen-generator-discrete-logarithm"
 note-tags:
   - "cryptography"
   - "foundations"

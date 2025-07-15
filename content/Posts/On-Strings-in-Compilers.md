@@ -2,7 +2,7 @@
 title: "On Strings in Compilers"
 date: "2021-01-24 10:44:25+01:00"
 aliases:
-  - "/posts/2021/01/on-strings-in-compilers"
+  - "../posts/2021/01/on-strings-in-compilers"
 tags:
   - "compiler"
   - "programming-languages"

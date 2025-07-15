@@ -2,7 +2,7 @@
 title: "Misc 0"
 date: "2020-12-26 15:15:24+01:00"
 aliases:
-  - "/notes/2020/12/misc-1"
+  - "../notes/2020/12/misc-1"
 note-tags:
   - "programming"
   - "green-threads"

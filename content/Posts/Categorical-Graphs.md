@@ -2,7 +2,7 @@
 title: "Categorical Graphs"
 date: "2020-10-02"
 aliases:
-  - "/posts/2020/10/categorical-graphs"
+  - "../posts/2020/10/categorical-graphs"
 tags:
   - "math"
   - "graph-theory"

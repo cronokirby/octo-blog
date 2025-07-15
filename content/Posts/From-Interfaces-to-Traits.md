@@ -2,7 +2,7 @@
 title: "From Interfaces to Traits"
 date: "2019-08-17 08:32:00-04:00"
 aliases:
-  - "/posts/2019/08/from-interfaces-to-traits"
+  - "../posts/2019/08/from-interfaces-to-traits"
 tags:
   - "software-architecture"
   - "programming-languages"

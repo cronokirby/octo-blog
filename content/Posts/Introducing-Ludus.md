@@ -2,7 +2,7 @@
 title: "Introducing Ludus"
 date: "2019-06-13 21:35:12+02:00"
 aliases:
-  - "/posts/2019/06/introducing-ludus"
+  - "../posts/2019/06/introducing-ludus"
 tags:
   - "rust"
   - "emulation"

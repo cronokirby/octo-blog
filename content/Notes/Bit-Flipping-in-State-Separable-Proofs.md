@@ -2,7 +2,7 @@
 title: "Bit Flipping in State Separable Proofs"
 date: "2022-05-03 21:20:48+02:00"
 aliases:
-  - "/notes/2022/05/bit-flipping-in-state-separable-proofs"
+  - "../notes/2022/05/bit-flipping-in-state-separable-proofs"
 note-tags:
   - "cryptography"
   - "foundations"

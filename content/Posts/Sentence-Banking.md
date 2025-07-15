@@ -2,7 +2,7 @@
 title: "Sentence Banking"
 date: "2019-07-07"
 aliases:
-  - "/posts/2019/07/sentence-banking"
+  - "../posts/2019/07/sentence-banking"
 tags:
   - "japanese"
   - "rust"

@@ -2,7 +2,7 @@
 title: "Thoughts on Big Number APIs"
 date: "2021-01-28 11:13:25+01:00"
 aliases:
-  - "/notes/2021/01/thoughts-on-big-num-apis"
+  - "../notes/2021/01/thoughts-on-big-num-apis"
 note-tags:
   - "math"
   - "cryptography"

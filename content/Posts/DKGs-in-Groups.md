@@ -2,7 +2,7 @@
 title: "DKGs in Groups"
 date: "2022-10-09 11:36:06+02:00"
 aliases:
-  - "/posts/2022/10/dkgs-in-groups"
+  - "../posts/2022/10/dkgs-in-groups"
 tags:
   - "cryptography"
   - "protocols"

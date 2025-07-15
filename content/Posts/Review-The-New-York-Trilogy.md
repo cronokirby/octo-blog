@@ -2,7 +2,7 @@
 title: "Review: The New York Trilogy"
 date: "2020-01-31"
 aliases:
-  - "/posts/2020/01/review-the-new-york-trilogy"
+  - "../posts/2020/01/review-the-new-york-trilogy"
 tags:
   - "literature"
 ---

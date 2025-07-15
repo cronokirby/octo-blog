@@ -2,7 +2,7 @@
 title: "Layerability and Abstraction"
 date: "2019-10-27 17:07:40+01:00"
 aliases:
-  - "/posts/2019/10/layerability-and-abstraction"
+  - "../posts/2019/10/layerability-and-abstraction"
 tags:
   - "networking"
   - "programming"

@@ -2,7 +2,7 @@
 title: "A simple algorithm for UNIX's Tree"
 date: "2020-12-05"
 aliases:
-  - "/posts/2020/12/a-simple-algorithm-for-unixs-tree"
+  - "../posts/2020/12/a-simple-algorithm-for-unixs-tree"
 tags:
   - "algorithms"
   - "command-line"

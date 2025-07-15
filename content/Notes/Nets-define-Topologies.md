@@ -2,7 +2,7 @@
 title: "Nets define Topologies"
 date: "2021-01-15 13:07:15+01:00"
 aliases:
-  - "/notes/2021/01/nets-define-topologies"
+  - "../notes/2021/01/nets-define-topologies"
 note-tags:
   - "math"
   - "topology"

@@ -2,7 +2,7 @@
 title: "Monty Hall and Counterfactuals"
 date: "2020-10-14"
 aliases:
-  - "/posts/2020/10/monty-hall-and-counterfactuals"
+  - "../posts/2020/10/monty-hall-and-counterfactuals"
 tags:
   - "math"
   - "probability"

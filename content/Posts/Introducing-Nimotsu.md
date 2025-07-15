@@ -2,7 +2,7 @@
 title: "Introducing Nimotsu"
 date: "2021-06-06 21:07:43+02:00"
 aliases:
-  - "/posts/2021/06/introducing-nimotsu"
+  - "../posts/2021/06/introducing-nimotsu"
 tags:
   - "cryptography"
   - "math"
