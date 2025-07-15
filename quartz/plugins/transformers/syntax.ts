@@ -13,8 +13,8 @@ interface Options {
 
 const defaultOptions: Options = {
   theme: {
-    light: "github-light",
-    dark: "github-dark",
+    light: "solarized-light",
+    dark: "solarized-dark",
   },
   keepBackground: false,
 }
