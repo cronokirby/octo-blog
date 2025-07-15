@@ -95,28 +95,20 @@ def migrate_podcast_episodes(old_blog_dir: Path, output_dir: Path) -> int:
     markdown_lines = ["# Podcast Episodes", ""]
     
     for episode in episodes:
-        # Main list item with title and link
-        if episode['link']:
-            markdown_lines.append(f"- [{episode['title']}]({episode['link']})")
-        else:
-            markdown_lines.append(f"- {episode['title']}")
-        
-        # Add metadata as sub-items
+        # Main list item with title, link, and date in brackets
+        main_item = f"- [{episode['title']}]({episode['link']})"
         if episode['date']:
-            markdown_lines.append(f"  - Date: {episode['date']}")
-        
-        if episode['tags']:
-            tags_str = ', '.join(episode['tags'])
-            markdown_lines.append(f"  - Tags: {tags_str}")
+            main_item += f" [[{episode['date']}]]"
+        markdown_lines.append(main_item)
         
         # Add description as sub-item if available
         if episode['description']:
-            markdown_lines.append(f"  - Description: {episode['description']}")
+            markdown_lines.append(f"  - {episode['description']}")
         
         markdown_lines.append("")  # Empty line between episodes
     
     # Write to output file
-    output_file = output_dir / "podcast_episodes.md"
+    output_file = output_dir / "Podcast.md"
     output_file.write_text('\n'.join(markdown_lines), encoding='utf-8')
     
     print(f"Migrated {len(episodes)} podcast episodes to {output_file}")

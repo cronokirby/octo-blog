@@ -31,5 +31,24 @@ scripts/
 - **Old blog location**: `../old-blog/` (Hugo-based blog with podcast episodes)
 - **Current blog content**: `content/` directory (Quartz-based blog system)
 
+## Blog Structure Analysis
+
+### Old Blog (Hugo-based)
+- **Structure**: Hugo static site generator with content organized in directories
+- **Podcast episodes**: Located in `content/podcast/` with numbered directories (0001, 0002, etc.)
+- **Episode format**: Each episode has its own directory containing `index.md` and `cover.jpg`
+- **Frontmatter**: YAML format with fields: `title`, `date`, `type`, `tag`, `withpost`, `description`, `link`
+- **Content**: Description text follows the frontmatter delimiter (`---`)
+- **Tags**: Multi-line YAML list format (e.g., `- "Cryptography"`, `- "ZK"`)
+- **Links**: External links to Substack episodes
+- **Total episodes**: 24 episodes (as of migration)
+
+### Current Blog (Quartz-based)
+- **Structure**: Quartz static site generator with markdown files in `content/` directory
+- **Organization**: Flat structure with categorized subdirectories (Notes/, Posts/, Refs/, etc.)
+- **Format**: Standard markdown files with frontmatter
+- **lists**: `content/Podcast.md`, `content/Projects.md`, `content/Papers.md` (single consolidated files)
+- **Migration format (lists only)**: Markdown list with `- [title](url) [[YYYY-MM-DD]]` (for some categories, just the year) and `- description` sub-items
+
 ## Development Principles
 - **Silent on success**: Scripts should be silent in the happy path and only output messages on errors or warnings
