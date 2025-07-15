@@ -2,11 +2,11 @@
 title: "(Haskell in Haskell) 4. Simplification"
 date: "2021-03-03 11:21:22+01:00"
 aliases:
-  - "posts/2021/03/haskell-in-haskell-4-simplification"
+  - "/posts/2021/03/haskell-in-haskell-4-simplification"
 tags:
-  - "Haskell"
-  - "Programming Languages"
-  - "Compiler"
+  - "/Haskell"
+  - "/Programming Languages"
+  - "/Compiler"
 draft: "True"
 ---
 

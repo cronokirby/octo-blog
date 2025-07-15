@@ -2,11 +2,11 @@
 title: "Some MPS Utilities"
 date: "2023-02-23 10:58:37+01:00"
 aliases:
-  - "notes/2023/02/some-mps-utilities"
+  - "/notes/2023/02/some-mps-utilities"
 note-tags:
-  - "Cryptography"
-  - "Foundations"
-  - "Protocols"
+  - "/Cryptography"
+  - "/Foundations"
+  - "/Protocols"
 katex: "True"
 type: "note"
 ---

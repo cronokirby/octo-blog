@@ -2,11 +2,11 @@
 title: "Constant-Time Big Numbers: An Introduction"
 date: "2021-04-05 18:00:51+02:00"
 aliases:
-  - "posts/2021/04/constant-time-big-numbers-an-introduction"
+  - "/posts/2021/04/constant-time-big-numbers-an-introduction"
 tags:
-  - "Cryptography"
-  - "Math"
-  - "Security"
+  - "/Cryptography"
+  - "/Math"
+  - "/Security"
 draft: "False"
 katex: "True"
 ---

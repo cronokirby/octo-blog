@@ -2,11 +2,11 @@
 title: "Writing a Toy Shell in C"
 date: "2022-03-11 19:28:10+01:00"
 aliases:
-  - "posts/2022/03/writing-a-toy-shell-in-c"
+  - "/posts/2022/03/writing-a-toy-shell-in-c"
 tags:
-  - "C"
-  - "Programming Language"
-  - "Systems"
+  - "/C"
+  - "/Programming Language"
+  - "/Systems"
 draft: "True"
 katex: "False"
 ---

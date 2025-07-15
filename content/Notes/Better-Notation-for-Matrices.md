@@ -2,9 +2,9 @@
 title: "Better Notation for Matrices"
 date: "2021-08-25 08:38:01+00:00"
 aliases:
-  - "notes/2021/08/better_matrix_notation"
+  - "/notes/2021/08/better_matrix_notation"
 note-tags:
-  - "Math"
+  - "/Math"
 katex: "True"
 type: "note"
 ---

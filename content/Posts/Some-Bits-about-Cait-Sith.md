@@ -2,10 +2,10 @@
 title: "Some Bits about Cait-Sith"
 date: "2023-03-09 10:41:25+01:00"
 aliases:
-  - "posts/2023/03/some-bits-about-cait-sith"
+  - "/posts/2023/03/some-bits-about-cait-sith"
 tags:
-  - "Cryptography"
-  - "MPC"
+  - "/Cryptography"
+  - "/MPC"
 draft: "False"
 katex: "True"
 ---

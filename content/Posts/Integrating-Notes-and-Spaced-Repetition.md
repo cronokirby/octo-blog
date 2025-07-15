@@ -2,10 +2,10 @@
 title: "Integrating Notes and Spaced Repetition"
 date: "2020-01-10"
 aliases:
-  - "posts/2020/01/integrating-notes-and-spaced-repetition"
+  - "/posts/2020/01/integrating-notes-and-spaced-repetition"
 tags:
-  - "Learning"
-  - "Spaced Repetition"
+  - "/Learning"
+  - "/Spaced Repetition"
 ---
 
 So I've been tinkering around with better systems for taking notes recently. I'm not a big

@@ -1,7 +1,7 @@
 ---
 authors:
-  - "[[Herbert Hoover]]"
-  - "[[George Nash]]"
+  - "/[[Herbert Hoover]]"
+  - "/[[George Nash]]"
 published: 2021-11-01
 created: 2025-06-05
 tags:

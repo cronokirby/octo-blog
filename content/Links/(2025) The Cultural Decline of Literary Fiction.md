@@ -1,6 +1,6 @@
 ---
 authors:
-  - "[[Owen Yingling]]"
+  - "/[[Owen Yingling]]"
 published: 2025-06-14
 created: 2025-06-22
 tags:

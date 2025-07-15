@@ -2,10 +2,10 @@
 title: "On Doerner et al's modifications to Extended Random OT"
 date: "2021-08-28 13:35:16+02:00"
 aliases:
-  - "notes/2021/08/on_doerners_modifications_to_random_ot"
+  - "/notes/2021/08/on_doerners_modifications_to_random_ot"
 note-tags:
-  - "Cryptography"
-  - "Math"
+  - "/Cryptography"
+  - "/Math"
 katex: "True"
 type: "note"
 ---

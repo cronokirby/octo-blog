@@ -2,11 +2,11 @@
 title: "Empty vs NonEmpty Groups"
 date: "2020-08-17"
 aliases:
-  - "posts/2020/08/empty-vs-nonempty-groups"
+  - "/posts/2020/08/empty-vs-nonempty-groups"
 tags:
-  - "Math"
-  - "Category Theory"
-  - "Algebra"
+  - "/Math"
+  - "/Category Theory"
+  - "/Algebra"
 katex: "True"
 ---
 

@@ -2,10 +2,10 @@
 title: "Let's Describe Algorithms Better"
 date: "2021-01-16 20:18:19+01:00"
 aliases:
-  - "posts/2021/01/lets-describe-algorithms-better"
+  - "/posts/2021/01/lets-describe-algorithms-better"
 tags:
-  - "Algorithms"
-  - "Programming"
+  - "/Algorithms"
+  - "/Programming"
 draft: "False"
 katex: "True"
 ---

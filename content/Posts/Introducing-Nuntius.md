@@ -2,11 +2,11 @@
 title: "Introducing Nuntius"
 date: "2021-07-05 12:14:09+02:00"
 aliases:
-  - "posts/2021/07/introducing-nuntius"
+  - "/posts/2021/07/introducing-nuntius"
 tags:
-  - "Math"
-  - "Cryptography"
-  - "Security"
+  - "/Math"
+  - "/Cryptography"
+  - "/Security"
 draft: "False"
 katex: "True"
 ---

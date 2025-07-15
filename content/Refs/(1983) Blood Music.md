@@ -1,6 +1,6 @@
 ---
 authors:
-  - "[[Greg Bear]]"
+  - "/[[Greg Bear]]"
 published: 1983-01-01
 created: 2025-06-16
 tags:

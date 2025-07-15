@@ -2,11 +2,11 @@
 title: "(Un)fold as (Co)algebra"
 date: "2020-12-07"
 aliases:
-  - "posts/2020/12/unfold-as-coalgebra"
+  - "/posts/2020/12/unfold-as-coalgebra"
 tags:
-  - "Algebra"
-  - "Haskell"
-  - "Category Theory"
+  - "/Algebra"
+  - "/Haskell"
+  - "/Category Theory"
 draft: "False"
 katex: "True"
 ---

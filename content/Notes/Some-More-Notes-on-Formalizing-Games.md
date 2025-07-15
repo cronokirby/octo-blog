@@ -2,12 +2,12 @@
 title: "Some More Notes on Formalizing Games"
 date: "2022-02-18 21:50:39+01:00"
 aliases:
-  - "notes/2022/02/index"
+  - "/notes/2022/02/index"
 note-tags:
-  - "Cryptography"
-  - "Foundations"
-  - "Math"
-  - "Programming"
+  - "/Cryptography"
+  - "/Foundations"
+  - "/Math"
+  - "/Programming"
 katex: "True"
 type: "note"
 ---

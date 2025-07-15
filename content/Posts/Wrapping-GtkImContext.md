@@ -2,10 +2,10 @@
 title: "Wrapping GtkImContext"
 date: "2020-09-20"
 aliases:
-  - "posts/2020/09/wrapping-gtkimcontext"
+  - "/posts/2020/09/wrapping-gtkimcontext"
 tags:
-  - "C++"
-  - "Gtk"
+  - "/C++"
+  - "/Gtk"
 draft: "False"
 ---
 

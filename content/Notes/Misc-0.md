@@ -2,14 +2,14 @@
 title: "Misc 0"
 date: "2020-12-26 15:15:24+01:00"
 aliases:
-  - "notes/2020/12/misc-1"
+  - "/notes/2020/12/misc-1"
 note-tags:
-  - "Programming"
-  - "Green Threads"
-  - "Topology"
-  - "Math"
-  - "Algebra"
-  - "Misc"
+  - "/Programming"
+  - "/Green Threads"
+  - "/Topology"
+  - "/Math"
+  - "/Algebra"
+  - "/Misc"
 katex: "True"
 type: "note"
 ---

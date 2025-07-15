@@ -2,11 +2,11 @@
 title: "Tychonoff's Theorem and Zorn's Lemma"
 date: "2021-02-02 18:34:29+01:00"
 aliases:
-  - "posts/2021/02/tychonoffs-theorem-and-zorns-lemma"
+  - "/posts/2021/02/tychonoffs-theorem-and-zorns-lemma"
 tags:
-  - "Math"
-  - "Set Theory"
-  - "Topology"
+  - "/Math"
+  - "/Set Theory"
+  - "/Topology"
 draft: "False"
 katex: "True"
 ---

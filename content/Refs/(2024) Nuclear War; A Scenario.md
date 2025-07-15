@@ -1,6 +1,6 @@
 ---
 authors:
-  - "[[Annie Jacobsen]]"
+  - "/[[Annie Jacobsen]]"
 published: 2024-03-26
 created: 2025-06-05
 tags:

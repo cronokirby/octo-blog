@@ -2,9 +2,9 @@
 title: "Canetti et al's Paradoxical Encryption Scheme"
 date: "2022-04-23 18:23:35+02:00"
 aliases:
-  - "posts/2022/04/canetti-et-als-paradoxical-encryption-scheme"
+  - "/posts/2022/04/canetti-et-als-paradoxical-encryption-scheme"
 tags:
-  - "Cryptography"
+  - "/Cryptography"
 draft: "False"
 katex: "True"
 ---

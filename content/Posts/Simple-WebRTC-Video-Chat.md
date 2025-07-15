@@ -2,12 +2,12 @@
 title: "Simple WebRTC Video Chat"
 date: "2020-06-10"
 aliases:
-  - "posts/2020/06/simple-webrtc-video-chat"
+  - "/posts/2020/06/simple-webrtc-video-chat"
 tags:
-  - "Typescript"
-  - "React"
-  - "WebRTC"
-  - "Project"
+  - "/Typescript"
+  - "/React"
+  - "/WebRTC"
+  - "/Project"
 draft: "False"
 ---
 

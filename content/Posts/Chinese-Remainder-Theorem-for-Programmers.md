@@ -2,11 +2,11 @@
 title: "Chinese Remainder Theorem for Programmers"
 date: "2020-12-13"
 aliases:
-  - "posts/2020/12/chinese-remainder-theorem-for-programmers"
+  - "/posts/2020/12/chinese-remainder-theorem-for-programmers"
 tags:
-  - "Math"
-  - "Algebra"
-  - "Programming"
+  - "/Math"
+  - "/Algebra"
+  - "/Programming"
 draft: "False"
 katex: "True"
 ---

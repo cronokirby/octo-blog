@@ -1,6 +1,6 @@
 ---
 authors:
-  - "[[Arthur Conan Doyle]]"
+  - "/[[Arthur Conan Doyle]]"
 published: 1887-01-01
 created: 2025-06-13
 tags:

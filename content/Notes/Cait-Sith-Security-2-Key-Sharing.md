@@ -2,12 +2,12 @@
 title: "Cait-Sith Security (2): Key Sharing"
 date: "2023-03-13 16:52:30+01:00"
 aliases:
-  - "notes/2023/03/cait-sith-security-2-key-sharing"
+  - "/notes/2023/03/cait-sith-security-2-key-sharing"
 note-tags:
-  - "Cait-Sith"
-  - "Cryptography"
-  - "Protocols"
-  - "TSS"
+  - "/Cait-Sith"
+  - "/Cryptography"
+  - "/Protocols"
+  - "/TSS"
 katex: "True"
 type: "note"
 ---

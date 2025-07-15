@@ -2,12 +2,12 @@
 title: "Cait-Sith Security (4): Signing"
 date: "2023-04-16 21:50:00+02:00"
 aliases:
-  - "notes/2023/04/cait-sith-security-4-signing"
+  - "/notes/2023/04/cait-sith-security-4-signing"
 note-tags:
-  - "Cait-Sith"
-  - "Cryptography"
-  - "Protocols"
-  - "TSS"
+  - "/Cait-Sith"
+  - "/Cryptography"
+  - "/Protocols"
+  - "/TSS"
 katex: "True"
 type: "note"
 ---

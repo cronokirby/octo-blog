@@ -2,10 +2,10 @@
 title: "Notes on STARK Arithmetization"
 date: "2022-09-25 11:36:07+02:00"
 aliases:
-  - "posts/2022/09/notes-on-stark-arithmetization"
+  - "/posts/2022/09/notes-on-stark-arithmetization"
 tags:
-  - "Cryptography"
-  - "ZK Proofs"
+  - "/Cryptography"
+  - "/ZK Proofs"
 draft: "False"
 katex: "True"
 ---

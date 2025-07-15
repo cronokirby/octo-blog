@@ -2,11 +2,11 @@
 title: "Signatures From Identification Schemes"
 date: "2021-07-10 09:33:56+02:00"
 aliases:
-  - "posts/2021/07/signatures-from-identification-schemes"
+  - "/posts/2021/07/signatures-from-identification-schemes"
 tags:
-  - "Math"
-  - "Cryptography"
-  - "Security"
+  - "/Math"
+  - "/Cryptography"
+  - "/Security"
 draft: "False"
 katex: "True"
 ---

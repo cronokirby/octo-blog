@@ -2,12 +2,12 @@
 title: "Cait-Sith Security (1): Echo Broadcast"
 date: "2023-02-27 14:03:26+01:00"
 aliases:
-  - "notes/2023/02/cait-sith-security-1-echo-broadcast"
+  - "/notes/2023/02/cait-sith-security-1-echo-broadcast"
 note-tags:
-  - "Cait-Sith"
-  - "Cryptography"
-  - "Protocols"
-  - "TSS"
+  - "/Cait-Sith"
+  - "/Cryptography"
+  - "/Protocols"
+  - "/TSS"
 katex: "True"
 type: "note"
 ---

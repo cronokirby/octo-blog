@@ -2,11 +2,11 @@
 title: "Fractals on The Web"
 date: "2021-02-21 16:07:08+01:00"
 aliases:
-  - "posts/2021/02/fractals-on-the-web"
+  - "/posts/2021/02/fractals-on-the-web"
 tags:
-  - "Graphics"
-  - "Fractals"
-  - "Math"
+  - "/Graphics"
+  - "/Fractals"
+  - "/Math"
 draft: "False"
 katex: "True"
 ---

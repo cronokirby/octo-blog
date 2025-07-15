@@ -2,9 +2,9 @@
 title: "What I've Been Working On: 2022-W10"
 date: "2022-03-13 23:02:20+01:00"
 aliases:
-  - "posts/2022/03/what-ive-been-working-on-2022-w10"
+  - "/posts/2022/03/what-ive-been-working-on-2022-w10"
 tags:
-  - "WIBWO"
+  - "/WIBWO"
 draft: "False"
 katex: "True"
 ---

@@ -1,6 +1,6 @@
 ---
 authors:
-  - "[[Michel Houllebecq]]"
+  - "/[[Michel Houllebecq]]"
 published: 2025-01-01
 created: 2025-06-05
 tags:

@@ -2,11 +2,11 @@
 title: "On Monero's Ring Signatures"
 date: "2022-03-07 17:15:02+01:00"
 aliases:
-  - "posts/2022/03/on-moneros-ring-signatures"
+  - "/posts/2022/03/on-moneros-ring-signatures"
 tags:
-  - "Cryptography"
-  - "Elliptic Curve"
-  - "Signature"
+  - "/Cryptography"
+  - "/Elliptic Curve"
+  - "/Signature"
 draft: "False"
 katex: "True"
 ---

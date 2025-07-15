@@ -1,6 +1,6 @@
 ---
 authors:
-  - "[[Gardner Dozois]]"
+  - "/[[Gardner Dozois]]"
 published: 
 created: 2025-06-16
 tags:

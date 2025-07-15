@@ -2,11 +2,11 @@
 title: "A Sketch of Synthetic Cryptography"
 date: "2023-06-22 03:02:35+02:00"
 aliases:
-  - "posts/2023/06/a-sketch-of-synthetic-cryptography"
+  - "/posts/2023/06/a-sketch-of-synthetic-cryptography"
 tags:
-  - "Category Theory"
-  - "Cryptography"
-  - "Foundations"
+  - "/Category Theory"
+  - "/Cryptography"
+  - "/Foundations"
 draft: "False"
 katex: "True"
 ---

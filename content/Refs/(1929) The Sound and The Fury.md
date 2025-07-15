@@ -1,6 +1,6 @@
 ---
 authors:
-  - "[[William Faulkner]]"
+  - "/[[William Faulkner]]"
 published: 1929-01-01
 created: 2025-07-05
 tags:

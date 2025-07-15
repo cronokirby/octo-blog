@@ -2,10 +2,10 @@
 title: "What I like about Roam (so far)"
 date: "2020-04-13"
 aliases:
-  - "posts/2020/04/what-i-like-about-roam-so-far"
+  - "/posts/2020/04/what-i-like-about-roam-so-far"
 tags:
-  - "Productivity"
-  - "Notes"
+  - "/Productivity"
+  - "/Notes"
 ---
 
 I read a lot of stuff, mainly on the internet. One problem I've always had is keeping track

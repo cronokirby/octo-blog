@@ -1,6 +1,6 @@
 ---
 authors:
-  - "[[Ursula Le Guin]]"
+  - "/[[Ursula Le Guin]]"
 published: 1991-01-01
 created: 2025-06-27
 tags:

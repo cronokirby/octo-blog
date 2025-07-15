@@ -2,10 +2,10 @@
 title: "Making an IO"
 date: "2021-01-10 09:45:40+01:00"
 aliases:
-  - "posts/2021/01/making-an-io"
+  - "/posts/2021/01/making-an-io"
 tags:
-  - "Haskell"
-  - "Compiler"
+  - "/Haskell"
+  - "/Compiler"
 draft: "False"
 katex: "False"
 ---

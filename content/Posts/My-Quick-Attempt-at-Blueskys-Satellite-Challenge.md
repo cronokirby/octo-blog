@@ -2,11 +2,11 @@
 title: "My Quick Attempt at Bluesky's Satellite Challenge"
 date: "2021-09-03 22:43:09+02:00"
 aliases:
-  - "posts/2021/09/my-quick-attempt-at-blueskys-satellite-challenge"
+  - "/posts/2021/09/my-quick-attempt-at-blueskys-satellite-challenge"
 tags:
-  - "Cryptography"
-  - "Decentralized"
-  - "Security"
+  - "/Cryptography"
+  - "/Decentralized"
+  - "/Security"
 draft: "False"
 katex: "False"
 ---

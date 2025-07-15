@@ -2,10 +2,10 @@
 title: "Parsing A Whitespace-Sensitive Language"
 date: "2020-06-03"
 aliases:
-  - "posts/2020/06/parsing-a-whitespace-sensitive-language"
+  - "/posts/2020/06/parsing-a-whitespace-sensitive-language"
 tags:
-  - "Parsing"
-  - "Programming Languages"
+  - "/Parsing"
+  - "/Programming Languages"
 ---
 
 This post is about how to parse programming languages which define blocks using indentation,

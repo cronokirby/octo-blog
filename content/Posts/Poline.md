@@ -2,11 +2,11 @@
 title: "Poline"
 date: "2019-08-31 19:18:13-04:00"
 aliases:
-  - "posts/2019/08/poline"
+  - "/posts/2019/08/poline"
 tags:
-  - "Rust"
-  - "Programming Languages"
-  - "Concurrency"
+  - "/Rust"
+  - "/Programming Languages"
+  - "/Concurrency"
 ---
 
 This is a post about [Poline](https://github.com/cronokirby/poline), a tiny

@@ -1,6 +1,6 @@
 ---
 authors:
-  - "[[Hua Hsu]]"
+  - "/[[Hua Hsu]]"
 published: 2025-06-30
 created: 2025-07-01
 tags:

@@ -2,12 +2,12 @@
 title: "On Formalizing Security Games"
 date: "2022-02-17 18:45:41+01:00"
 aliases:
-  - "notes/2022/02/index"
+  - "/notes/2022/02/index"
 note-tags:
-  - "Cryptography"
-  - "Foundations"
-  - "Math"
-  - "Programming"
+  - "/Cryptography"
+  - "/Foundations"
+  - "/Math"
+  - "/Programming"
 katex: "True"
 type: "note"
 ---

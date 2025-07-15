@@ -1,6 +1,6 @@
 ---
 authors:
-  - "[[Jennifer Pahlka]]"
+  - "/[[Jennifer Pahlka]]"
 published: 2019-06-13
 created: 2025-06-05
 tags:

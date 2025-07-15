@@ -1,6 +1,6 @@
 ---
 authors:
-  - "[[Matthew Continetti]]"
+  - "/[[Matthew Continetti]]"
 published: 
 created: 2025-06-29
 tags:

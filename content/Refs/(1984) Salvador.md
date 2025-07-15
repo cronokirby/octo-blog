@@ -1,6 +1,6 @@
 ---
 authors:
-  - "[[Lucius Shepard]]"
+  - "/[[Lucius Shepard]]"
 published: 1984-01-01
 created: 2025-06-16
 tags:

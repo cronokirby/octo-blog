@@ -1,6 +1,6 @@
 ---
 authors:
-  - "[[Eric Heinze]]"
+  - "/[[Eric Heinze]]"
 published: 2025-04-08
 created: 2025-06-05
 tags:

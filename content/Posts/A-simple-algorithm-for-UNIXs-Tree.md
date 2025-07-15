@@ -2,11 +2,11 @@
 title: "A simple algorithm for UNIX's Tree"
 date: "2020-12-05"
 aliases:
-  - "posts/2020/12/a-simple-algorithm-for-unixs-tree"
+  - "/posts/2020/12/a-simple-algorithm-for-unixs-tree"
 tags:
-  - "Algorithms"
-  - "Command Line"
-  - "Rust"
+  - "/Algorithms"
+  - "/Command Line"
+  - "/Rust"
 draft: "False"
 ---
 
