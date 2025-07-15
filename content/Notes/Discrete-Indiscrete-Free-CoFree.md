@@ -2,7 +2,7 @@
 title: "Discrete, Indiscrete: Free, CoFree"
 date: "2020-12-31 13:49:40+01:00"
 aliases:
-  - "notes/unknown/discrete-indiscrete-free-cofree"
+  - "notes/2020/12/discrete-indiscrete-free-cofree"
 note-tags:
   - "Algebra"
   - "Category Theory"

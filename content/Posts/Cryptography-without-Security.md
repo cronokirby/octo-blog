@@ -2,7 +2,7 @@
 title: "Cryptography without Security"
 date: "2023-02-19 18:59:59+01:00"
 aliases:
-  - "posts/unknown/Cryptography-without-Security"
+  - "posts/2023/02/cryptography-without-security"
 tags:
   - "Cryptography"
   - "Foundations"

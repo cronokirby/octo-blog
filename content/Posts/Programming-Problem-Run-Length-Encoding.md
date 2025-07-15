@@ -2,7 +2,7 @@
 title: "Programming Problem: Run-Length Encoding"
 date: "2021-02-05 10:17:13+01:00"
 aliases:
-  - "posts/unknown/Programming-Problem-Run-Length-Encoding"
+  - "posts/2021/02/programming-problem-run-length-encoding"
 tags:
   - "Haskell"
   - "Programming"

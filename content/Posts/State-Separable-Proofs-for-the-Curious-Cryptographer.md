@@ -2,7 +2,7 @@
 title: "State-Separable Proofs for the Curious Cryptographer"
 date: "2022-05-28 15:49:42+02:00"
 aliases:
-  - "posts/unknown/State-Separable-Proofs-for-the-Curious-Cryptographer"
+  - "posts/2022/05/state-separable-proofs-for-the-curious-cryptographer"
 tags:
   - "Cryptography"
   - "Foundations"

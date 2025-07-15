@@ -2,7 +2,7 @@
 title: "Connectedness and Constant Maps"
 date: "2020-12-25 17:00:09+01:00"
 aliases:
-  - "notes/unknown/connectedness-and-constant-maps"
+  - "notes/2020/12/connectedness-and-constant-maps"
 note-tags:
   - "Math"
   - "Topology"

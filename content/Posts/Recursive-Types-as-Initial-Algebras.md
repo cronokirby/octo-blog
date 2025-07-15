@@ -2,7 +2,7 @@
 title: "Recursive Types as Initial Algebras"
 date: "2020-09-09"
 aliases:
-  - "posts/unknown/Recursive-Types-as-Initial-Algebras"
+  - "posts/2020/09/recursive-types-as-initial-algebras"
 tags:
   - "Math"
   - "Category Theory"

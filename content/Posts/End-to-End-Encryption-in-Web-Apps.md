@@ -2,7 +2,7 @@
 title: "End-to-End Encryption in Web Apps"
 date: "2021-06-20 12:29:22+02:00"
 aliases:
-  - "posts/unknown/End-to-End-Encryption-in-Web-Apps"
+  - "posts/2021/06/end-to-end-encryption-in-web-apps"
 tags:
   - "Cryptography"
   - "Security"

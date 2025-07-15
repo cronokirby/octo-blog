@@ -2,7 +2,7 @@
 title: "(Haskell in Haskell) 0. Introduction"
 date: "2020-11-01"
 aliases:
-  - "posts/unknown/Haskell-in-Haskell-0-Introduction"
+  - "posts/2020/11/haskell-in-haskell-0-introduction"
 tags:
   - "Haskell"
   - "Programming Languages"

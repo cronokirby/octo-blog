@@ -2,7 +2,7 @@
 title: "Reflexive Interfaces in Go"
 date: "2021-05-11 20:13:08+02:00"
 aliases:
-  - "notes/unknown/reflexive_interfaces_in_go"
+  - "notes/2021/05/reflexive_interfaces_in_go"
 note-tags:
   - "Go"
   - "Programming Languages"

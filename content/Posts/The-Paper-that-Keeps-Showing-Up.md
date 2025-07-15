@@ -2,7 +2,7 @@
 title: "The Paper that Keeps Showing Up"
 date: "2022-08-21 08:00:00+02:00"
 aliases:
-  - "posts/unknown/The-Paper-that-Keeps-Showing-Up"
+  - "posts/2022/08/the-paper-that-keeps-showing-up"
 tags:
   - "Cryptography"
   - "ZK Proofs"

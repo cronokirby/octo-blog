@@ -2,7 +2,7 @@
 title: "Making an IO"
 date: "2021-01-10 09:45:40+01:00"
 aliases:
-  - "posts/unknown/Making-an-IO"
+  - "posts/2021/01/making-an-io"
 tags:
   - "Haskell"
   - "Compiler"

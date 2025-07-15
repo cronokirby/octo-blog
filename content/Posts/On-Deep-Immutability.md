@@ -2,7 +2,7 @@
 title: "On Deep Immutability"
 date: "2020-11-10"
 aliases:
-  - "posts/unknown/On-Deep-Immutability"
+  - "posts/2020/11/on-deep-immutability"
 tags:
   - "Programming Languages"
 draft: "False"

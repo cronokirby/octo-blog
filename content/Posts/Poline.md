@@ -2,7 +2,7 @@
 title: "Poline"
 date: "2019-08-31 19:18:13-04:00"
 aliases:
-  - "posts/unknown/Poline"
+  - "posts/2019/08/poline"
 tags:
   - "Rust"
   - "Programming Languages"

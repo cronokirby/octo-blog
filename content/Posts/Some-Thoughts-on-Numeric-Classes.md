@@ -2,7 +2,7 @@
 title: "Some Thoughts on Numeric Classes"
 date: "2021-02-28 18:10:52+01:00"
 aliases:
-  - "posts/unknown/Some-Thoughts-on-Numeric-Classes"
+  - "posts/2021/02/some-thoughts-on-numeric-classes"
 tags:
   - "Math"
   - "Haskell"

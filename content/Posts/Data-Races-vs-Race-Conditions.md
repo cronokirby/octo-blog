@@ -2,7 +2,7 @@
 title: "Data Races vs Race Conditions"
 date: "2019-06-14 20:15:10+02:00"
 aliases:
-  - "posts/unknown/Data-Races-vs-Race-Conditions"
+  - "posts/2019/06/data-races-vs-race-conditions"
 tags:
   - "Concurrency"
   - "Go"

@@ -2,7 +2,7 @@
 title: "On Verifying Public Coin Protocols inside ZK Proofs"
 date: "2022-08-14 20:14:21+02:00"
 aliases:
-  - "notes/unknown/on-verifying-public-coin-protocols-inside-zk-proofs"
+  - "notes/2022/08/on-verifying-public-coin-protocols-inside-zk-proofs"
 note-tags:
   - "Cryptography"
   - "ZK Proofs"

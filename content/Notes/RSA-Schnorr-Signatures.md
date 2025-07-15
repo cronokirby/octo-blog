@@ -2,7 +2,7 @@
 title: "RSA Schnorr Signatures"
 date: "2022-04-05 22:57:48+02:00"
 aliases:
-  - "notes/unknown/rsa-schnorr-signatures"
+  - "notes/2022/04/rsa-schnorr-signatures"
 note-tags:
   - "Cryptography"
   - "Math"

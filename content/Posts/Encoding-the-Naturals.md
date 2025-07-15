@@ -2,7 +2,7 @@
 title: "Encoding the Naturals"
 date: "2020-08-30"
 aliases:
-  - "posts/unknown/Encoding-the-Naturals"
+  - "posts/2020/08/encoding-the-naturals"
 tags:
   - "Math"
   - "Category Theory"

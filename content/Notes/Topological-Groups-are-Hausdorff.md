@@ -2,7 +2,7 @@
 title: "Topological Groups are Hausdorff"
 date: "2020-12-24 12:50:13+01:00"
 aliases:
-  - "notes/unknown/topological-groups-hausdorff"
+  - "notes/2020/12/topological-groups-hausdorff"
 note-tags:
   - "Math"
   - "Topology"

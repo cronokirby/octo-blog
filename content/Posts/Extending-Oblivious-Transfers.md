@@ -2,7 +2,7 @@
 title: "Extending Oblivious Transfers"
 date: "2021-10-09 15:07:25+02:00"
 aliases:
-  - "posts/unknown/Extending-Oblivious-Transfers"
+  - "posts/2021/10/extending-oblivious-transfers"
 tags:
   - "Cryptography"
   - "Math"

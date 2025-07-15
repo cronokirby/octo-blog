@@ -2,7 +2,7 @@
 title: "Some More Notes on Formalizing Games"
 date: "2022-02-18 21:50:39+01:00"
 aliases:
-  - "notes/unknown/index"
+  - "notes/2022/02/index"
 note-tags:
   - "Cryptography"
   - "Foundations"

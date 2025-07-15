@@ -2,7 +2,7 @@
 title: "Some Cryptography Books I Like"
 date: "2022-05-14 19:46:00+02:00"
 aliases:
-  - "posts/unknown/Some-Cryptography-Books-I-Like"
+  - "posts/2022/05/some-cryptography-books-i-like"
 tags:
   - "Books"
   - "Cryptography"

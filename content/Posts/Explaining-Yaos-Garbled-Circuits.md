@@ -2,7 +2,7 @@
 title: "Explaining Yao's Garbled Circuits"
 date: "2022-05-01 18:18:47+02:00"
 aliases:
-  - "posts/unknown/Explaining-Yaos-Garbled-Circuits"
+  - "posts/2022/05/explaining-yaos-garbled-circuits"
 tags:
   - "Cryptography"
   - "MPC"

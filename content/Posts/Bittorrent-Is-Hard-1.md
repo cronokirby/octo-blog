@@ -2,7 +2,7 @@
 title: "Bittorrent Is Hard - 1"
 date: "2019-05-03 16:54:09+02:00"
 aliases:
-  - "posts/unknown/Bittorrent-Is-Hard-1"
+  - "posts/2019/05/bittorrent-is-hard-1"
 tags:
   - "Distributed Systems"
   - "Networking"

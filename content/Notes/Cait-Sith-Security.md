@@ -2,7 +2,7 @@
 title: "Cait-Sith Security"
 date: "2023-04-16 21:50:00+02:00"
 aliases:
-  - "notes/unknown/cait-sith-security"
+  - "notes/2023/04/cait-sith-security"
 note-tags:
   - "Cait-Sith"
   - "Cryptography"

@@ -2,7 +2,7 @@
 title: "Empty vs NonEmpty Groups"
 date: "2020-08-17"
 aliases:
-  - "posts/unknown/Empty-vs-NonEmpty-Groups"
+  - "posts/2020/08/empty-vs-nonempty-groups"
 tags:
   - "Math"
   - "Category Theory"

@@ -2,7 +2,7 @@
 title: "What I've Been Working On: 2022-W13"
 date: "2022-04-03 19:26:11+02:00"
 aliases:
-  - "posts/unknown/What-Ive-Been-Working-On-2022-W13"
+  - "posts/2022/04/what-ive-been-working-on-2022-w13"
 tags:
   - "WIBWO"
 draft: "False"

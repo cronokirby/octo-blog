@@ -2,7 +2,7 @@
 title: "(Un)fold as (Co)algebra"
 date: "2020-12-07"
 aliases:
-  - "posts/unknown/Unfold-as-Coalgebra"
+  - "posts/2020/12/unfold-as-coalgebra"
 tags:
   - "Algebra"
   - "Haskell"

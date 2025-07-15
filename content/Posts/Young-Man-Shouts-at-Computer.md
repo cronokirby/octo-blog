@@ -2,7 +2,7 @@
 title: "Young Man Shouts at Computer"
 date: "2023-03-23 21:31:27+01:00"
 aliases:
-  - "posts/unknown/Young-Man-Shouts-at-Computer"
+  - "posts/2023/03/young-man-shouts-at-computer"
 tags:
   - "Essay"
 draft: "False"

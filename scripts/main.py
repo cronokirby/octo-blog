@@ -59,13 +59,41 @@ def create_alias_path(date: str, title: str, content_type: str) -> str:
     """Create the old URL path for aliases."""
     try:
         from datetime import datetime
-        date_obj = datetime.fromisoformat(date.replace('Z', '+00:00'))
+        
+        # If date is already a datetime object (from YAML parsing), use it directly
+        if hasattr(date, 'year'):
+            date_obj = date
+        else:
+            # Handle different date string formats
+            date_str = str(date)
+            # Replace space with T for ISO format compatibility
+            date_str = date_str.replace(' ', 'T')
+            # Handle Z timezone
+            date_str = date_str.replace('Z', '+00:00')
+            date_obj = datetime.fromisoformat(date_str)
+        
         year = date_obj.year
         month = f"{date_obj.month:02d}"
-        sanitized_title = sanitize_filename(title)
+        sanitized_title = sanitize_filename(title).lower()
         return f"{content_type}/{year}/{month}/{sanitized_title}"
-    except:
-        return f"{content_type}/unknown/{sanitize_filename(title)}"
+    except Exception as e:
+        # Even on error, try to extract year/month from date string
+        year = "unknown"
+        month = "unknown"
+        if date:
+            try:
+                # Convert to string and try to parse just the date part (YYYY-MM-DD)
+                date_str = str(date)
+                date_part = date_str.split('T')[0] if 'T' in date_str else date_str.split(' ')[0]
+                if len(date_part) >= 10 and date_part[4] == '-' and date_part[7] == '-':
+                    year = date_part[:4]
+                    month = date_part[5:7]
+            except:
+                pass
+        
+        print(f"Warning: Could not parse date '{date}' for {title}, using {year}/{month}")
+        sanitized_title = sanitize_filename(title).lower()
+        return f"{content_type}/{year}/{month}/{sanitized_title}"
 
 
 def copy_image_with_hash(source_path: Path, images_dir: Path) -> str:

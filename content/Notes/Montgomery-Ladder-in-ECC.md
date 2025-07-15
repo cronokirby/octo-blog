@@ -2,7 +2,7 @@
 title: "Montgomery Ladder in ECC"
 date: "2021-04-21 21:11:18+02:00"
 aliases:
-  - "notes/unknown/montgomery-ladder"
+  - "notes/2021/04/montgomery-ladder"
 note-tags:
   - "Math"
   - "Cryptography"

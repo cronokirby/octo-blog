@@ -2,7 +2,7 @@
 title: "On Multi-Set Hashing"
 date: "2021-07-25 20:48:14+02:00"
 aliases:
-  - "posts/unknown/On-Multi-Set-Hashing"
+  - "posts/2021/07/on-multi-set-hashing"
 tags:
   - "Cryptography"
   - "Math"

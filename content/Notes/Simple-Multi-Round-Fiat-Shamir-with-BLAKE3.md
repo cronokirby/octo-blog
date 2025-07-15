@@ -2,7 +2,7 @@
 title: "Simple Multi-Round Fiat-Shamir with BLAKE3"
 date: "2022-09-11 22:59:48+02:00"
 aliases:
-  - "notes/unknown/simple-multi-round-fiat-shamir-with-blake3"
+  - "notes/2022/09/simple-multi-round-fiat-shamir-with-blake3"
 note-tags:
   - "Cryptography"
   - "ZK Proofs"

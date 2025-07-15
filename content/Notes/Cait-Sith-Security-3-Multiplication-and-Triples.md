@@ -2,7 +2,7 @@
 title: "Cait-Sith Security (3): Multiplication and Triples"
 date: "2023-04-05 18:22:14+02:00"
 aliases:
-  - "notes/unknown/cait-sith-security-3-triples"
+  - "notes/2023/04/cait-sith-security-3-triples"
 note-tags:
   - "Cait-Sith"
   - "Cryptography"

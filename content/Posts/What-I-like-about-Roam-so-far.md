@@ -2,7 +2,7 @@
 title: "What I like about Roam (so far)"
 date: "2020-04-13"
 aliases:
-  - "posts/unknown/What-I-like-about-Roam-so-far"
+  - "posts/2020/04/what-i-like-about-roam-so-far"
 tags:
   - "Productivity"
   - "Notes"

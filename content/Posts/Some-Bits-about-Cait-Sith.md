@@ -2,7 +2,7 @@
 title: "Some Bits about Cait-Sith"
 date: "2023-03-09 10:41:25+01:00"
 aliases:
-  - "posts/unknown/Some-Bits-about-Cait-Sith"
+  - "posts/2023/03/some-bits-about-cait-sith"
 tags:
   - "Cryptography"
   - "MPC"

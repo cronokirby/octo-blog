@@ -2,7 +2,7 @@
 title: "Encoding Traits with Go Generics"
 date: "2022-03-20 16:42:38+01:00"
 aliases:
-  - "posts/unknown/Encoding-Traits-with-Go-Generics"
+  - "posts/2022/03/encoding-traits-with-go-generics"
 tags:
   - "Generics"
   - "Go"

@@ -2,7 +2,7 @@
 title: "Always use offsetof"
 date: "2020-10-19"
 aliases:
-  - "posts/unknown/Always-use-offsetof"
+  - "posts/2020/10/always-use-offsetof"
 tags:
   - "C"
 ---

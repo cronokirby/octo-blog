@@ -2,7 +2,7 @@
 title: "Avalanche Signatures"
 date: "2021-08-05 07:44:59+00:00"
 aliases:
-  - "notes/unknown/avalanche_signatures"
+  - "notes/2021/08/avalanche_signatures"
 note-tags:
   - "Elliptic Curve"
   - "Cryptography"

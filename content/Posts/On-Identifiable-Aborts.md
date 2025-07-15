@@ -2,7 +2,7 @@
 title: "On Identifiable Aborts"
 date: "2022-06-26 20:36:18+02:00"
 aliases:
-  - "posts/unknown/On-Identifiable-Aborts"
+  - "posts/2022/06/on-identifiable-aborts"
 tags:
   - "Cryptography"
   - "Protocols"

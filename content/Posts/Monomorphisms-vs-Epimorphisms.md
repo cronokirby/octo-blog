@@ -2,7 +2,7 @@
 title: "Monomorphisms vs Epimorphisms"
 date: "2020-06-18"
 aliases:
-  - "posts/unknown/Monomorphisms-vs-Epimorphisms"
+  - "posts/2020/06/monomorphisms-vs-epimorphisms"
 tags:
   - "Math"
   - "Category Theory"

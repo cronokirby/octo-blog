@@ -2,7 +2,7 @@
 title: "On Formalizing Security Games"
 date: "2022-02-17 18:45:41+01:00"
 aliases:
-  - "notes/unknown/index"
+  - "notes/2022/02/index"
 note-tags:
   - "Cryptography"
   - "Foundations"

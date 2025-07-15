@@ -2,7 +2,7 @@
 title: "Beyond Round Complexity"
 date: "2022-07-11 07:59:16+02:00"
 aliases:
-  - "posts/unknown/Beyond-Round-Complexity"
+  - "posts/2022/07/beyond-round-complexity"
 tags:
   - "Cryptography"
   - "Protocols"

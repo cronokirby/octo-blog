@@ -2,7 +2,7 @@
 title: "Some KEMs and Some Proofs"
 date: "2022-08-14 08:00:00+02:00"
 aliases:
-  - "posts/unknown/Some-KEMs-and-Some-Proofs"
+  - "posts/2022/08/some-kems-and-some-proofs"
 tags:
   - "Cryptography"
   - "Foundations"

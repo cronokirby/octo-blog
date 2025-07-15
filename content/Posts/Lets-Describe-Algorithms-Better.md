@@ -2,7 +2,7 @@
 title: "Let's Describe Algorithms Better"
 date: "2021-01-16 20:18:19+01:00"
 aliases:
-  - "posts/unknown/Lets-Describe-Algorithms-Better"
+  - "posts/2021/01/lets-describe-algorithms-better"
 tags:
   - "Algorithms"
   - "Programming"

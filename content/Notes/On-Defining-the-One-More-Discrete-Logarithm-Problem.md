@@ -2,7 +2,7 @@
 title: "On Defining the One More Discrete Logarithm Problem"
 date: "2022-06-02 07:29:22+02:00"
 aliases:
-  - "notes/unknown/on-defining-one-more-discrete-logarithm"
+  - "notes/2022/06/on-defining-one-more-discrete-logarithm"
 note-tags:
   - "Cryptography"
   - "Foundations"

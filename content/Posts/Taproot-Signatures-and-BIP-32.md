@@ -2,7 +2,7 @@
 title: "Taproot Signatures and BIP-32"
 date: "2021-08-03 06:50:15+00:00"
 aliases:
-  - "posts/unknown/Taproot-Signatures-and-BIP-32"
+  - "posts/2021/08/taproot-signatures-and-bip-32"
 tags:
   - "Cryptocurrency"
   - "Cryptography"

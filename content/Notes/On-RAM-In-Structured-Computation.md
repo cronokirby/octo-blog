@@ -2,7 +2,7 @@
 title: "On RAM In Structured Computation"
 date: "2022-08-24 19:24:12+02:00"
 aliases:
-  - "notes/unknown/on-ram-in-structured-computation"
+  - "notes/2022/08/on-ram-in-structured-computation"
 note-tags:
   - "Cryptography"
   - "SNARKs"

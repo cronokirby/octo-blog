@@ -2,7 +2,7 @@
 title: "Powers of Tau Proofs"
 date: "2022-09-07 22:43:30+02:00"
 aliases:
-  - "notes/unknown/trusted-setup-proofs"
+  - "notes/2022/09/trusted-setup-proofs"
 note-tags:
   - "Cryptography"
   - "ZK Proofs"

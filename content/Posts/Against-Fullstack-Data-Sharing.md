@@ -2,7 +2,7 @@
 title: "Against Fullstack Data Sharing"
 date: "2020-02-13"
 aliases:
-  - "posts/unknown/Against-Fullstack-Data-Sharing"
+  - "posts/2020/02/against-fullstack-data-sharing"
 tags:
   - "Programming"
   - "Frontend"

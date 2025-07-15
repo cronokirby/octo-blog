@@ -2,7 +2,7 @@
 title: "(Haskell in Haskell) 3. Parsing"
 date: "2020-12-28 08:21:21+01:00"
 aliases:
-  - "posts/unknown/Haskell-in-Haskell-3-Parsing"
+  - "posts/2020/12/haskell-in-haskell-3-parsing"
 tags:
   - "Haskell"
   - "Programming Languages"

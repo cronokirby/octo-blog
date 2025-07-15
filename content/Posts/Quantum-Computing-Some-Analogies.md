@@ -2,7 +2,7 @@
 title: "Quantum Computing: Some Analogies"
 date: "2021-07-18 11:57:50+02:00"
 aliases:
-  - "posts/unknown/Quantum-Computing-Some-Analogies"
+  - "posts/2021/07/quantum-computing-some-analogies"
 tags:
   - "Math"
   - "Quantum Computing"

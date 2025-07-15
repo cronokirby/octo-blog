@@ -2,7 +2,7 @@
 title: "(Haskell in Haskell) 2. Lexing"
 date: "2020-12-10"
 aliases:
-  - "posts/unknown/Haskell-in-Haskell-2-Lexing"
+  - "posts/2020/12/haskell-in-haskell-2-lexing"
 tags:
   - "Haskell"
   - "Programming Languages"

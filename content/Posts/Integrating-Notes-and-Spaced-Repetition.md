@@ -2,7 +2,7 @@
 title: "Integrating Notes and Spaced Repetition"
 date: "2020-01-10"
 aliases:
-  - "posts/unknown/Integrating-Notes-and-Spaced-Repetition"
+  - "posts/2020/01/integrating-notes-and-spaced-repetition"
 tags:
   - "Learning"
   - "Spaced Repetition"
