@@ -1,6 +1,7 @@
 # Blog Migration Tool
 
 ## Overview
+
 This blog project contains a Python-based migration tool in the `scripts/` directory for migrating content from an old blog to the current blog system.
 
 ## Scripts Directory
