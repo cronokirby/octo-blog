@@ -4,8 +4,8 @@ date: "2020-10-18"
 aliases:
   - "/posts/2020/10/lexer-combinators"
 tags:
-  - "/Haskell"
-  - "/Programming Languages"
+  - "haskell"
+  - "programming-languages"
 katex: "True"
 ---
 

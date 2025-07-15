@@ -4,9 +4,9 @@ date: "2020-09-09"
 aliases:
   - "/posts/2020/09/recursive-types-as-initial-algebras"
 tags:
-  - "/Math"
-  - "/Category Theory"
-  - "/Haskell"
+  - "math"
+  - "category-theory"
+  - "haskell"
 draft: "False"
 katex: "True"
 ---

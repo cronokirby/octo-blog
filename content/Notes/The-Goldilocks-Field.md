@@ -4,8 +4,8 @@ date: "2022-09-01 18:41:04+02:00"
 aliases:
   - "/notes/2022/09/the-goldilocks-field"
 note-tags:
-  - "/Cryptography"
-  - "/ZK Proofs"
+  - "cryptography"
+  - "zk-proofs"
 katex: "True"
 type: "note"
 ---

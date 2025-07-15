@@ -4,7 +4,7 @@ date: "2020-01-31"
 aliases:
   - "/posts/2020/01/review-the-new-york-trilogy"
 tags:
-  - "/Literature"
+  - "literature"
 ---
 
 This is a review of [The New York Trilogy](https://en.wikipedia.org/wiki/The_New_York_Trilogy) written by [Paul Auster](https://en.wikipedia.org/wiki/Paul_Auster) in 1987.

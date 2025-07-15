@@ -4,9 +4,9 @@ date: "2021-02-14 16:56:45+01:00"
 aliases:
   - "/posts/2021/02/spaced-repetition-for-mathematics"
 tags:
-  - "/Math"
-  - "/Spaced Repetition"
-  - "/Study"
+  - "math"
+  - "spaced-repetition"
+  - "study"
 draft: "False"
 katex: "True"
 ---

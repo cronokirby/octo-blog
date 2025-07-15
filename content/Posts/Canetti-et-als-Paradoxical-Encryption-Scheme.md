@@ -4,7 +4,7 @@ date: "2022-04-23 18:23:35+02:00"
 aliases:
   - "/posts/2022/04/canetti-et-als-paradoxical-encryption-scheme"
 tags:
-  - "/Cryptography"
+  - "cryptography"
 draft: "False"
 katex: "True"
 ---

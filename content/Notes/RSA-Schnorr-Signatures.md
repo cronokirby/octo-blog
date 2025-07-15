@@ -4,8 +4,8 @@ date: "2022-04-05 22:57:48+02:00"
 aliases:
   - "/notes/2022/04/rsa-schnorr-signatures"
 note-tags:
-  - "/Cryptography"
-  - "/Math"
+  - "cryptography"
+  - "math"
 katex: "True"
 type: "note"
 ---

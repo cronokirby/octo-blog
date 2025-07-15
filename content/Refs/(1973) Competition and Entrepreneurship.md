@@ -1,11 +1,11 @@
 ---
 authors:
-  - "/[[Israel Kirzner]]"
+  - "[[Israel Kirzner]]"
 published: 1973-01-01
 created: 2025-06-29
 tags:
-  - book
-  - economics
+  - "book"
+  - "economics"
 ---
 An [[Austrian Economics]] book criticizing [[Equilibrium Price Theory|equilibrium price theory]], in favor of a process view of the economy, centering the role of [[Entrepeneurial Action|entrepeneurial action]] in the dynamics of the market. With profit as a motive, this action coordinates and synchronizes information in the economy, and drives changes in the products available, and the prices they command.
 

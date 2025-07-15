@@ -4,9 +4,9 @@ date: "2022-08-24 19:24:12+02:00"
 aliases:
   - "/notes/2022/08/on-ram-in-structured-computation"
 note-tags:
-  - "/Cryptography"
-  - "/SNARKs"
-  - "/ZK Proofs"
+  - "cryptography"
+  - "snarks"
+  - "zk-proofs"
 katex: "True"
 type: "note"
 ---

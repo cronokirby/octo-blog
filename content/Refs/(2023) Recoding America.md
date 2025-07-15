@@ -1,13 +1,13 @@
 ---
 authors:
-  - "/[[Jennifer Pahlka]]"
+  - "[[Jennifer Pahlka]]"
 published: 2019-06-13
 created: 2025-06-05
 tags:
-  - book
-  - computing
-  - systems
-  - politics
+  - "book"
+  - "computing"
+  - "systems"
+  - "politics"
 ---
 Interesting book going into the difficulties of implementing software projects for the administration of government systems, especially when under duress, or trying to salvage failing projects. The author has a lot of experience in organizing such projects, often as an external actor brought in to save projects after they've already fallen into trouble.
 

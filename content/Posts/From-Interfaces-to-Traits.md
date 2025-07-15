@@ -4,8 +4,8 @@ date: "2019-08-17 08:32:00-04:00"
 aliases:
   - "/posts/2019/08/from-interfaces-to-traits"
 tags:
-  - "/Software Architecture"
-  - "/Programming Languages"
+  - "software-architecture"
+  - "programming-languages"
 ---
 
 This is a post about how different languages

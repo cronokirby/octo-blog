@@ -4,8 +4,8 @@ date: "2022-09-11 22:59:48+02:00"
 aliases:
   - "/notes/2022/09/simple-multi-round-fiat-shamir-with-blake3"
 note-tags:
-  - "/Cryptography"
-  - "/ZK Proofs"
+  - "cryptography"
+  - "zk-proofs"
 katex: "True"
 type: "note"
 ---

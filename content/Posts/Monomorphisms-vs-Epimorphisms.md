@@ -4,8 +4,8 @@ date: "2020-06-18"
 aliases:
   - "/posts/2020/06/monomorphisms-vs-epimorphisms"
 tags:
-  - "/Math"
-  - "/Category Theory"
+  - "math"
+  - "category-theory"
 katex: "True"
 ---
 

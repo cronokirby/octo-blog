@@ -4,9 +4,9 @@ date: "2021-10-02 16:07:54+02:00"
 aliases:
   - "/posts/2021/10/porting-ludus-to-the-web"
 tags:
-  - "/Emulation"
-  - "/Rust"
-  - "/WASM"
+  - "emulation"
+  - "rust"
+  - "wasm"
 draft: "False"
 katex: "False"
 ---

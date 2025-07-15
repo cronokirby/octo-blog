@@ -4,9 +4,9 @@ date: "2020-12-10"
 aliases:
   - "/posts/2020/12/haskell-in-haskell-2-lexing"
 tags:
-  - "/Haskell"
-  - "/Programming Languages"
-  - "/Compiler"
+  - "haskell"
+  - "programming-languages"
+  - "compiler"
 draft: "False"
 ---
 

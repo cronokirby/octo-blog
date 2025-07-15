@@ -4,8 +4,8 @@ date: "2019-12-28 13:13:00+01:00"
 aliases:
   - "/posts/2019/12/structured-immersion"
 tags:
-  - "/Japanese"
-  - "/Programming"
+  - "japanese"
+  - "programming"
 ---
 
 When it comes to language learning, one approach that I really subscribe to is immersion.

@@ -4,8 +4,8 @@ date: "2023-02-19 18:59:59+01:00"
 aliases:
   - "/posts/2023/02/cryptography-without-security"
 tags:
-  - "/Cryptography"
-  - "/Foundations"
+  - "cryptography"
+  - "foundations"
 draft: "False"
 katex: "True"
 ---

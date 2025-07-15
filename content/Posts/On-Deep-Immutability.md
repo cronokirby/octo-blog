@@ -4,7 +4,7 @@ date: "2020-11-10"
 aliases:
   - "/posts/2020/11/on-deep-immutability"
 tags:
-  - "/Programming Languages"
+  - "programming-languages"
 draft: "False"
 ---
 

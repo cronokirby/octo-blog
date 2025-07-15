@@ -4,8 +4,8 @@ date: "2021-07-25 20:48:14+02:00"
 aliases:
   - "/posts/2021/07/on-multi-set-hashing"
 tags:
-  - "/Cryptography"
-  - "/Math"
+  - "cryptography"
+  - "math"
 draft: "False"
 katex: "True"
 ---

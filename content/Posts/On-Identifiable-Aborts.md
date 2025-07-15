@@ -4,8 +4,8 @@ date: "2022-06-26 20:36:18+02:00"
 aliases:
   - "/posts/2022/06/on-identifiable-aborts"
 tags:
-  - "/Cryptography"
-  - "/Protocols"
+  - "cryptography"
+  - "protocols"
 draft: "False"
 katex: "True"
 ---

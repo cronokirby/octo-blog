@@ -4,7 +4,7 @@ date: "2020-10-19"
 aliases:
   - "/posts/2020/10/always-use-offsetof"
 tags:
-  - "/C"
+  - "c"
 ---
 
 If you want to find out how many bytes a certain portion of a struct uses,

@@ -4,9 +4,9 @@ date: "2020-12-05"
 aliases:
   - "/posts/2020/12/a-simple-algorithm-for-unixs-tree"
 tags:
-  - "/Algorithms"
-  - "/Command Line"
-  - "/Rust"
+  - "algorithms"
+  - "command-line"
+  - "rust"
 draft: "False"
 ---
 

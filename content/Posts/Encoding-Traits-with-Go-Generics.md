@@ -4,8 +4,8 @@ date: "2022-03-20 16:42:38+01:00"
 aliases:
   - "/posts/2022/03/encoding-traits-with-go-generics"
 tags:
-  - "/Generics"
-  - "/Go"
+  - "generics"
+  - "go"
 draft: "False"
 katex: "False"
 ---

@@ -4,9 +4,9 @@ date: "2022-03-07 17:15:02+01:00"
 aliases:
   - "/posts/2022/03/on-moneros-ring-signatures"
 tags:
-  - "/Cryptography"
-  - "/Elliptic Curve"
-  - "/Signature"
+  - "cryptography"
+  - "elliptic-curve"
+  - "signature"
 draft: "False"
 katex: "True"
 ---

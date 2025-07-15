@@ -4,9 +4,9 @@ date: "2021-10-09 15:07:25+02:00"
 aliases:
   - "/posts/2021/10/extending-oblivious-transfers"
 tags:
-  - "/Cryptography"
-  - "/Math"
-  - "/Security"
+  - "cryptography"
+  - "math"
+  - "security"
 draft: "True"
 katex: "True"
 ---

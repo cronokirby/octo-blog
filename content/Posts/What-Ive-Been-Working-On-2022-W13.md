@@ -4,7 +4,7 @@ date: "2022-04-03 19:26:11+02:00"
 aliases:
   - "/posts/2022/04/what-ive-been-working-on-2022-w13"
 tags:
-  - "/WIBWO"
+  - "wibwo"
 draft: "False"
 katex: "True"
 ---

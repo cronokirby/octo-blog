@@ -4,7 +4,7 @@ date: "2019-03-06 11:39:03+01:00"
 aliases:
   - "/posts/2019/03/mutability-is-a-great-secret-to-have"
 tags:
-  - "/Functional Programming"
+  - "functional-programming"
 draft: "False"
 ---
 

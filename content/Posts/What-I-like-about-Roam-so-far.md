@@ -4,8 +4,8 @@ date: "2020-04-13"
 aliases:
   - "/posts/2020/04/what-i-like-about-roam-so-far"
 tags:
-  - "/Productivity"
-  - "/Notes"
+  - "productivity"
+  - "notes"
 ---
 
 I read a lot of stuff, mainly on the internet. One problem I've always had is keeping track

@@ -4,8 +4,8 @@ date: "2020-01-10"
 aliases:
   - "/posts/2020/01/integrating-notes-and-spaced-repetition"
 tags:
-  - "/Learning"
-  - "/Spaced Repetition"
+  - "learning"
+  - "spaced-repetition"
 ---
 
 So I've been tinkering around with better systems for taking notes recently. I'm not a big
@@ -111,8 +111,8 @@ A section header might end up looking like this:
 section: "My beautiful section"
 description: "This is a summary about computational mechanics"
 tags:
-  - Physics
-  - Programming
+  - "physics"
+  - "programming"
 ---
 ```
 

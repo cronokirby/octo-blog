@@ -4,9 +4,9 @@ date: "2020-10-02"
 aliases:
   - "/posts/2020/10/categorical-graphs"
 tags:
-  - "/Math"
-  - "/Graph Theory"
-  - "/Category Theory"
+  - "math"
+  - "graph-theory"
+  - "category-theory"
 katex: "True"
 ---
 

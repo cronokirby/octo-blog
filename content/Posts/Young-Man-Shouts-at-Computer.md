@@ -4,7 +4,7 @@ date: "2023-03-23 21:31:27+01:00"
 aliases:
   - "/posts/2023/03/young-man-shouts-at-computer"
 tags:
-  - "/Essay"
+  - "essay"
 draft: "False"
 ---
 

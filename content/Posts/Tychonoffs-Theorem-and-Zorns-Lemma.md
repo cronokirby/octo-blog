@@ -4,9 +4,9 @@ date: "2021-02-02 18:34:29+01:00"
 aliases:
   - "/posts/2021/02/tychonoffs-theorem-and-zorns-lemma"
 tags:
-  - "/Math"
-  - "/Set Theory"
-  - "/Topology"
+  - "math"
+  - "set-theory"
+  - "topology"
 draft: "False"
 katex: "True"
 ---

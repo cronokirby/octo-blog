@@ -4,9 +4,9 @@ date: "2021-02-21 16:07:08+01:00"
 aliases:
   - "/posts/2021/02/fractals-on-the-web"
 tags:
-  - "/Graphics"
-  - "/Fractals"
-  - "/Math"
+  - "graphics"
+  - "fractals"
+  - "math"
 draft: "False"
 katex: "True"
 ---

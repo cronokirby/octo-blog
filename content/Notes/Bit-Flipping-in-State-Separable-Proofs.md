@@ -4,9 +4,9 @@ date: "2022-05-03 21:20:48+02:00"
 aliases:
   - "/notes/2022/05/bit-flipping-in-state-separable-proofs"
 note-tags:
-  - "/Cryptography"
-  - "/Foundations"
-  - "/Math"
+  - "cryptography"
+  - "foundations"
+  - "math"
 katex: "True"
 type: "note"
 ---

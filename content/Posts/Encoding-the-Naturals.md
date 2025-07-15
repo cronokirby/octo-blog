@@ -4,9 +4,9 @@ date: "2020-08-30"
 aliases:
   - "/posts/2020/08/encoding-the-naturals"
 tags:
-  - "/Math"
-  - "/Category Theory"
-  - "/Haskell"
+  - "math"
+  - "category-theory"
+  - "haskell"
 draft: "False"
 katex: "True"
 ---

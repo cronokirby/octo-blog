@@ -4,8 +4,8 @@ date: "2019-06-13 21:35:12+02:00"
 aliases:
   - "/posts/2019/06/introducing-ludus"
 tags:
-  - "/Rust"
-  - "/Emulation"
+  - "rust"
+  - "emulation"
 ---
 
 This is a short post about a crate I recently published:

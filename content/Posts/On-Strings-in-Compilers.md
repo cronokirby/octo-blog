@@ -4,8 +4,8 @@ date: "2021-01-24 10:44:25+01:00"
 aliases:
   - "/posts/2021/01/on-strings-in-compilers"
 tags:
-  - "/Compiler"
-  - "/Programming Languages"
+  - "compiler"
+  - "programming-languages"
 draft: "False"
 ---
 

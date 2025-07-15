@@ -4,10 +4,10 @@ date: "2020-01-09 10:10:11+01:00"
 aliases:
   - "/posts/2020/01/react-pitfalls-usestate-initialization"
 tags:
-  - "/React"
-  - "/Hooks"
-  - "/Frontend"
-  - "/Javascript"
+  - "react"
+  - "hooks"
+  - "frontend"
+  - "javascript"
 ---
 
 This is a quick post about a "gotcha" I encountered recently in a React application.

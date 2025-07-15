@@ -1,12 +1,12 @@
 ---
 authors:
-  - "/[[William Faulkner]]"
+  - "[[William Faulkner]]"
 published: 1929-01-01
 created: 2025-07-05
 tags:
-  - book
-  - fiction
-  - literature
+  - "book"
+  - "fiction"
+  - "literature"
 ---
 An experimental novel, documenting the tribulations of the Compson family, in early 20th Century Kentucky. In a very avant-garde way, the novel deploys [[Stream of Consciousness Writing|stream of consciousness writing]] to present the story through deeply personal and emotive perspectives.
 

@@ -4,8 +4,8 @@ date: "2022-09-15 21:48:33+02:00"
 aliases:
   - "/notes/2022/09/on-adding-chaining-to-safe"
 note-tags:
-  - "/Cryptography"
-  - "/ZK Proofs"
+  - "cryptography"
+  - "zk-proofs"
 katex: "True"
 type: "note"
 ---

@@ -1,12 +1,12 @@
 ---
 authors:
-  - "/[[Eric Heinze]]"
+  - "[[Eric Heinze]]"
 published: 2025-04-08
 created: 2025-06-05
 tags:
-  - book
-  - politics
-  - philosophy
+  - "book"
+  - "politics"
+  - "philosophy"
 ---
 A short book advancing the idea that while [[Critical Theory]] advocates for practicing [[Memory Politics]] (the idea of being critical of the past, and promoting awareness of past injustices in order to inform analysis and improvement of the present), it often does so without being self-critical. Critical theory is strongly associated with leftism, but this criticism is often not applied to transgressions that leftist regimes have conducted.
 

@@ -1,11 +1,11 @@
 ---
 authors:
-  - "/[[Arthur Conan Doyle]]"
+  - "[[Arthur Conan Doyle]]"
 published: 1887-01-01
 created: 2025-06-13
 tags:
-  - fiction
-  - short-story
+  - "fiction"
+  - "short-story"
 ---
 The first [[Sherlock Holmes]] novel. Introduces the now cult characters of the detective Holmes, and [[Dr. Watson]]. I was surprised by how readable and compelling the prose was. There are a few archaisms—mainly meanings for words that aren’t common anymore, like using “bespoke” in the sense of “seeming like”—a sophistication of prose, which might also befuddle a contemporary reader. If you can overcome these superficial obstacles, you gain access to a flowery and rich prose, with precise and vivid descriptions.
 

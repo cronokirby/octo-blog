@@ -4,8 +4,8 @@ date: "2022-09-07 22:43:30+02:00"
 aliases:
   - "/notes/2022/09/trusted-setup-proofs"
 note-tags:
-  - "/Cryptography"
-  - "/ZK Proofs"
+  - "cryptography"
+  - "zk-proofs"
 katex: "True"
 type: "note"
 ---

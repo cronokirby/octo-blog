@@ -4,9 +4,9 @@ date: "2022-03-11 19:28:10+01:00"
 aliases:
   - "/posts/2022/03/writing-a-toy-shell-in-c"
 tags:
-  - "/C"
-  - "/Programming Language"
-  - "/Systems"
+  - "c"
+  - "programming-language"
+  - "systems"
 draft: "True"
 katex: "False"
 ---

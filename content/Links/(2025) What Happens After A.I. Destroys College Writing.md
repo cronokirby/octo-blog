@@ -1,11 +1,11 @@
 ---
 authors:
-  - "/[[Hua Hsu]]"
+  - "[[Hua Hsu]]"
 published: 2025-06-30
 created: 2025-07-01
 tags:
-  - article
-  - ai
+  - "article"
+  - "ai"
 link: https://www.newyorker.com/magazine/2025/07/07/the-end-of-the-english-paper
 ---
 > The demise of the English paper will end a long intellectual tradition, but it’s also an opportunity to reëxamine the purpose of higher education.

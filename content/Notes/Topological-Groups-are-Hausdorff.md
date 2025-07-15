@@ -4,9 +4,9 @@ date: "2020-12-24 12:50:13+01:00"
 aliases:
   - "/notes/2020/12/topological-groups-hausdorff"
 note-tags:
-  - "/Math"
-  - "/Topology"
-  - "/Algebra"
+  - "math"
+  - "topology"
+  - "algebra"
 katex: "True"
 type: "note"
 ---

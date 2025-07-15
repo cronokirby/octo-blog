@@ -3,8 +3,8 @@ authors: "[[Haruki Murakami]]"
 published: 2023-04-13
 created: 2025-06-05
 tags:
-  - book
-  - fiction
+  - "book"
+  - "fiction"
 ---
 The latest [[Haruki Murakami]] novel, as of writing. You can read a hook description online, but this novel unfolds in a somewhat surprising way, so I find it hard to describe without spoiling. My spoiler-free review just consists of saying that I found this novel to be weaker than other more recent novels, and suffers from same of the odd pacing at progression problems of some of his older works, especially the early [[(1985) Hard Boiled Wonderland and the End of the World]]. Nonetheless, the novel does manage to pull off a very satisfying, steadily pleasing emotional simmer after a rocky start. The crisp warm writing makes this book an easy recommendation for some happy reading.
 

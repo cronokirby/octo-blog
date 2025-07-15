@@ -4,10 +4,10 @@ date: "2023-04-02 19:51:20+02:00"
 aliases:
   - "/notes/2023/04/cait-sith-security-x-cheatsheet"
 note-tags:
-  - "/Cait-Sith"
-  - "/Cryptography"
-  - "/Protocols"
-  - "/TSS"
+  - "cait-sith"
+  - "cryptography"
+  - "protocols"
+  - "tss"
 katex: "True"
 type: "note"
 ---

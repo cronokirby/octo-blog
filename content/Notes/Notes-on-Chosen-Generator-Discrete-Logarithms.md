@@ -4,10 +4,10 @@ date: "2022-11-01 18:58:58+01:00"
 aliases:
   - "/notes/2022/11/notes-on-chosen-generator-discrete-logarithm"
 note-tags:
-  - "/Cryptography"
-  - "/Foundations"
-  - "/Math"
-  - "/Programming"
+  - "cryptography"
+  - "foundations"
+  - "math"
+  - "programming"
 katex: "True"
 type: "note"
 ---

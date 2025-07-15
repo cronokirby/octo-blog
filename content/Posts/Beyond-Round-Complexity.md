@@ -4,8 +4,8 @@ date: "2022-07-11 07:59:16+02:00"
 aliases:
   - "/posts/2022/07/beyond-round-complexity"
 tags:
-  - "/Cryptography"
-  - "/Protocols"
+  - "cryptography"
+  - "protocols"
 draft: "True"
 katex: "True"
 ---

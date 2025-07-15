@@ -4,9 +4,9 @@ date: "2020-12-31 13:49:40+01:00"
 aliases:
   - "/notes/2020/12/discrete-indiscrete-free-cofree"
 note-tags:
-  - "/Algebra"
-  - "/Category Theory"
-  - "/Topology"
+  - "algebra"
+  - "category-theory"
+  - "topology"
 katex: "True"
 type: "note"
 ---

@@ -4,9 +4,9 @@ date: "2020-12-07"
 aliases:
   - "/posts/2020/12/unfold-as-coalgebra"
 tags:
-  - "/Algebra"
-  - "/Haskell"
-  - "/Category Theory"
+  - "algebra"
+  - "haskell"
+  - "category-theory"
 draft: "False"
 katex: "True"
 ---

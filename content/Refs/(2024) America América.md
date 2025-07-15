@@ -1,11 +1,11 @@
 ---
 authors:
-  - "/[[Greg Grandin]]"
+  - "[[Greg Grandin]]"
 published: 
 created: 2025-06-08
 tags:
-  - book
-  - history
+  - "book"
+  - "history"
 ---
 # Notes
 ## Part 1

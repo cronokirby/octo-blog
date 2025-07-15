@@ -4,10 +4,10 @@ date: "2020-06-10"
 aliases:
   - "/posts/2020/06/simple-webrtc-video-chat"
 tags:
-  - "/Typescript"
-  - "/React"
-  - "/WebRTC"
-  - "/Project"
+  - "typescript"
+  - "react"
+  - "webrtc"
+  - "project"
 draft: "False"
 ---
 

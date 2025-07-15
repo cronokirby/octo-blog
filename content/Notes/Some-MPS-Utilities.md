@@ -4,9 +4,9 @@ date: "2023-02-23 10:58:37+01:00"
 aliases:
   - "/notes/2023/02/some-mps-utilities"
 note-tags:
-  - "/Cryptography"
-  - "/Foundations"
-  - "/Protocols"
+  - "cryptography"
+  - "foundations"
+  - "protocols"
 katex: "True"
 type: "note"
 ---

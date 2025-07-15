@@ -1,11 +1,11 @@
 ---
 authors:
-  - "/[[Ursula Le Guin]]"
+  - "[[Ursula Le Guin]]"
 published: 1991-01-01
 created: 2025-06-27
 tags:
-  - book
-  - fiction
+  - "book"
+  - "fiction"
 ---
 A literary novel, centered around the fictional Oregon coast town of *Searoad*, and consisting of a collection of disparate narratives of the Women living or passing through there.
 

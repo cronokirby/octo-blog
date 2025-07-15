@@ -4,10 +4,10 @@ date: "2022-02-18 21:50:39+01:00"
 aliases:
   - "/notes/2022/02/index"
 note-tags:
-  - "/Cryptography"
-  - "/Foundations"
-  - "/Math"
-  - "/Programming"
+  - "cryptography"
+  - "foundations"
+  - "math"
+  - "programming"
 katex: "True"
 type: "note"
 ---

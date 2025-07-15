@@ -4,8 +4,8 @@ date: "2020-12-31 13:17:44+01:00"
 aliases:
   - "/posts/2020/12/basic-universal-properties-in-haskell"
 tags:
-  - "/Haskell"
-  - "/Category Theory"
+  - "haskell"
+  - "category-theory"
 draft: "False"
 katex: "True"
 ---

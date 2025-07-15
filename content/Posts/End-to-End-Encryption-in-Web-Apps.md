@@ -4,9 +4,9 @@ date: "2021-06-20 12:29:22+02:00"
 aliases:
   - "/posts/2021/06/end-to-end-encryption-in-web-apps"
 tags:
-  - "/Cryptography"
-  - "/Security"
-  - "/Web"
+  - "cryptography"
+  - "security"
+  - "web"
 draft: "False"
 katex: "True"
 ---

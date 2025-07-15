@@ -4,9 +4,9 @@ date: "2022-08-14 08:00:00+02:00"
 aliases:
   - "/posts/2022/08/some-kems-and-some-proofs"
 tags:
-  - "/Cryptography"
-  - "/Foundations"
-  - "/KEMs"
+  - "cryptography"
+  - "foundations"
+  - "kems"
 draft: "False"
 katex: "True"
 ---

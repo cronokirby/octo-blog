@@ -4,8 +4,8 @@ date: "2020-10-10"
 aliases:
   - "/posts/2020/10/my-blog-version-4"
 tags:
-  - "/Frontend"
-  - "/Meta"
+  - "frontend"
+  - "meta"
 katex: "True"
 ---
 

@@ -4,8 +4,8 @@ date: "2020-12-25 17:00:09+01:00"
 aliases:
   - "/notes/2020/12/connectedness-and-constant-maps"
 note-tags:
-  - "/Math"
-  - "/Topology"
+  - "math"
+  - "topology"
 katex: "True"
 type: "note"
 ---

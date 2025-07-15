@@ -4,7 +4,7 @@ date: "2022-07-16 11:24:37+02:00"
 aliases:
   - "/posts/2022/07/basic-cryptography-without-fluff"
 tags:
-  - "/Cryptography"
+  - "cryptography"
 draft: "False"
 katex: "True"
 ---

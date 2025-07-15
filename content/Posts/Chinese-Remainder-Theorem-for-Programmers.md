@@ -4,9 +4,9 @@ date: "2020-12-13"
 aliases:
   - "/posts/2020/12/chinese-remainder-theorem-for-programmers"
 tags:
-  - "/Math"
-  - "/Algebra"
-  - "/Programming"
+  - "math"
+  - "algebra"
+  - "programming"
 draft: "False"
 katex: "True"
 ---

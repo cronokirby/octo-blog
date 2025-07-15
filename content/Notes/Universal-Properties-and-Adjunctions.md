@@ -4,9 +4,9 @@ date: "2020-12-27 11:23:40+01:00"
 aliases:
   - "/notes/2020/12/universal-properties-and-adjunctions"
 note-tags:
-  - "/Algebra"
-  - "/Category Theory"
-  - "/Math"
+  - "algebra"
+  - "category-theory"
+  - "math"
 katex: "True"
 type: "note"
 ---

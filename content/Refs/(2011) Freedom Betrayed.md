@@ -1,14 +1,14 @@
 ---
 authors:
-  - "/[[Herbert Hoover]]"
-  - "/[[George Nash]]"
+  - "[[Herbert Hoover]]"
+  - "[[George Nash]]"
 published: 2021-11-01
 created: 2025-06-05
 tags:
-  - book
-  - politics
-  - history
-  - biography
+  - "book"
+  - "politics"
+  - "history"
+  - "biography"
 ---
 A large piece of scholarly work by President [Herbert Hoover](app://obsidian.md/Herbert%20Hoover), acting as a critical history of U.S. policy during [World War 2](app://obsidian.md/World%20War%202). The book draws greatly on Hoover's personal experience during the war, and shows his point of view and opinions on U.S. actions. Despite this personal lens, Hoover tried to produce a rigorous scholarly work, employing a staff of secretaries to check his work for factual errors, and studiously citing his sources to the standards of an academic history of World War 2.
 

@@ -4,9 +4,9 @@ date: "2020-11-01"
 aliases:
   - "/posts/2020/11/haskell-in-haskell-0-introduction"
 tags:
-  - "/Haskell"
-  - "/Programming Languages"
-  - "/Compiler"
+  - "haskell"
+  - "programming-languages"
+  - "compiler"
 draft: "False"
 ---
 

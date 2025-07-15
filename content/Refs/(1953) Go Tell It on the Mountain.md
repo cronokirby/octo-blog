@@ -1,10 +1,10 @@
 ---
 authors:
-  - "/[[James Baldwin]]"
+  - "[[James Baldwin]]"
 published: 1953-05-18
 created: 2025-06-23
 tags:
-  - fiction
+  - "fiction"
 ---
 A powerful, semi-autobiographical novel by [[James Baldwin]], exploring the themes of family, religion, and race, in the early 20th century.
 

@@ -1,7 +1,7 @@
 ---
 created: 2025-06-08
 tags:
-  - blockchain
+  - "blockchain"
 ---
 Bridges enable users to transfer assets between blockchains. Without them, you cannot have an ecosystem of cooperative applications and use-cases, and are stuck in zero-sum competition. The way bridges handle and present risk passes the buck far too much onto users, leading to economic inefficiency, and bad user experience.
 

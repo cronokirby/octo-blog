@@ -4,8 +4,8 @@ date: "2019-07-07"
 aliases:
   - "/posts/2019/07/sentence-banking"
 tags:
-  - "/Japanese"
-  - "/Rust"
+  - "japanese"
+  - "rust"
 ---
 
 This is a post about [ginkou](https://github.com/cronokirby/ginkou), a tool I

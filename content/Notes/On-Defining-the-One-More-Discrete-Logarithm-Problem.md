@@ -4,8 +4,8 @@ date: "2022-06-02 07:29:22+02:00"
 aliases:
   - "/notes/2022/06/on-defining-one-more-discrete-logarithm"
 note-tags:
-  - "/Cryptography"
-  - "/Foundations"
+  - "cryptography"
+  - "foundations"
 katex: "True"
 type: "note"
 ---

@@ -1,11 +1,11 @@
 ---
 authors:
-  - "/[[Michel Houllebecq]]"
+  - "[[Michel Houllebecq]]"
 published: 2025-01-01
 created: 2025-06-05
 tags:
-  - book
-  - fiction
+  - "book"
+  - "fiction"
 ---
 A novel exploring love, human isolation, and lineage. We follow the life narrative by Daniel, as canonized into a religious text, and commented by his 25th “neo-human” clone, two millennia later. While the novel starts off with a cynically vulgar coating, it does develop into an interesting meditation on the human condition, managing to tie together its disparate scenes into a broader reflection.
 

@@ -4,8 +4,8 @@ date: "2021-07-18 11:57:50+02:00"
 aliases:
   - "/posts/2021/07/quantum-computing-some-analogies"
 tags:
-  - "/Math"
-  - "/Quantum Computing"
+  - "math"
+  - "quantum-computing"
 draft: "False"
 katex: "True"
 ---

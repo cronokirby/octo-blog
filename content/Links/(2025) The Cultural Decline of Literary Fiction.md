@@ -1,11 +1,11 @@
 ---
 authors:
-  - "/[[Owen Yingling]]"
+  - "[[Owen Yingling]]"
 published: 2025-06-14
 created: 2025-06-22
 tags:
-  - culture
-  - systems
+  - "culture"
+  - "systems"
 link: https://oyyy.substack.com/p/the-cultural-decline-of-literary
 ---
 Good analysis of the underlying factors driving the decline of literary fiction, even though I remain unconvinced at some portions of the thesis.

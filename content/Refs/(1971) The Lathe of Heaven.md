@@ -1,12 +1,12 @@
 ---
 authors:
-  - "/[[Ursula Le Guin]]"
+  - "[[Ursula Le Guin]]"
 published: 1971-01-01
 created: 2025-06-30
 tags:
-  - book
-  - fiction
-  - sci-fi
+  - "book"
+  - "fiction"
+  - "sci-fi"
 ---
 George Orr has dreams which seem to have an effect on reality: after waking up, the world around him seems subtly changed towards the world of his dreams. Scared of changing the world, George turns to drugs, but quickly gets discovered for using more than his government allotted prescription. He’s sentenced to therapy with Dr. William Haber, an expert psychiatrist and sleep researcher. Far from believing that George is insane, Dr. Haber instead sees in him the potential to change the world to suit his own ends.
 

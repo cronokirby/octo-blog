@@ -4,8 +4,8 @@ date: "2021-05-07 21:41:01+02:00"
 aliases:
   - "/notes/2021/05/go_rsa_internals_constant_time"
 note-tags:
-  - "/Math"
-  - "/Cryptography"
+  - "math"
+  - "cryptography"
 katex: "True"
 type: "note"
 ---

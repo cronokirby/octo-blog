@@ -4,8 +4,8 @@ date: "2019-10-27 17:07:40+01:00"
 aliases:
   - "/posts/2019/10/layerability-and-abstraction"
 tags:
-  - "/Networking"
-  - "/Programming"
+  - "networking"
+  - "programming"
 ---
 
 This is a post about one of my favorite aspects of networking: how different protocols

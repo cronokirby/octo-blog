@@ -3,9 +3,9 @@ authors: "[[Mark J. Dunkelman]]"
 published: 2025-02-18
 created: 2025-06-05
 tags:
-  - book
-  - politics
-  - systems
+  - "book"
+  - "politics"
+  - "systems"
 ---
 Analyzes the problem of stagnation in america by looking at an internal struggle in progressive politics:
 - the "Hamiltonian" urge to centralize power to allow government to accomplish large things,

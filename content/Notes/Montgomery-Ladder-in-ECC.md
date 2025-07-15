@@ -4,8 +4,8 @@ date: "2021-04-21 21:11:18+02:00"
 aliases:
   - "/notes/2021/04/montgomery-ladder"
 note-tags:
-  - "/Math"
-  - "/Cryptography"
+  - "math"
+  - "cryptography"
 katex: "True"
 type: "note"
 ---

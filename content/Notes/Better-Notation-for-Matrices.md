@@ -4,7 +4,7 @@ date: "2021-08-25 08:38:01+00:00"
 aliases:
   - "/notes/2021/08/better_matrix_notation"
 note-tags:
-  - "/Math"
+  - "math"
 katex: "True"
 type: "note"
 ---

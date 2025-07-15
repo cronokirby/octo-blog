@@ -4,11 +4,11 @@ date: "2020-02-13"
 aliases:
   - "/posts/2020/02/against-fullstack-data-sharing"
 tags:
-  - "/Programming"
-  - "/Frontend"
-  - "/Backend"
-  - "/Javascript"
-  - "/GraphQL"
+  - "programming"
+  - "frontend"
+  - "backend"
+  - "javascript"
+  - "graphql"
 ---
 
 This is a post about how I work with data in fullstack development. Specifically, I share what I think are

@@ -4,8 +4,8 @@ date: "2022-09-25 11:36:07+02:00"
 aliases:
   - "/posts/2022/09/notes-on-stark-arithmetization"
 tags:
-  - "/Cryptography"
-  - "/ZK Proofs"
+  - "cryptography"
+  - "zk-proofs"
 draft: "False"
 katex: "True"
 ---

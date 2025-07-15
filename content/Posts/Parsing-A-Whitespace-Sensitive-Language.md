@@ -4,8 +4,8 @@ date: "2020-06-03"
 aliases:
   - "/posts/2020/06/parsing-a-whitespace-sensitive-language"
 tags:
-  - "/Parsing"
-  - "/Programming Languages"
+  - "parsing"
+  - "programming-languages"
 ---
 
 This post is about how to parse programming languages which define blocks using indentation,

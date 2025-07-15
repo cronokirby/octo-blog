@@ -4,8 +4,8 @@ date: "2021-01-16 20:18:19+01:00"
 aliases:
   - "/posts/2021/01/lets-describe-algorithms-better"
 tags:
-  - "/Algorithms"
-  - "/Programming"
+  - "algorithms"
+  - "programming"
 draft: "False"
 katex: "True"
 ---

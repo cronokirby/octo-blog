@@ -4,9 +4,9 @@ date: "2020-11-23"
 aliases:
   - "/posts/2020/11/haskell-in-haskell-1-setup"
 tags:
-  - "/Haskell"
-  - "/Programming Languages"
-  - "/Compiler"
+  - "haskell"
+  - "programming-languages"
+  - "compiler"
 ---
 
 This is the first "real" post in the [Haskell in Haskell](/series/haskell-in-haskell/)
