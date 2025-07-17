@@ -30,6 +30,7 @@ Books I read in [[2025]].
 - [[(1973) Competition and Entrepreneurship]]
 - [[(2022) The Right]]
 - [[(2024) The Anxious Generation]]
+- [[(2025) Unforgiving Places]]
 
 # Short Stories
 - [[(1887) A Study in Scarlet]]
