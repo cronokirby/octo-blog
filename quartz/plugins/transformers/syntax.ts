@@ -13,8 +13,8 @@ interface Options {
 
 const defaultOptions: Options = {
   theme: {
-    light: "solarized-light",
-    dark: "solarized-dark",
+    light: "nord",
+    dark: "nord",
   },
   keepBackground: false,
 }
