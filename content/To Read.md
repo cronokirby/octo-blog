@@ -6,3 +6,5 @@
 	- Could inform my thoughts on better language design.
 - [[(2025) Homomorphically Encrypting CRDTs]]
 	- Interesting combination of cryptography and [[Local-First Software]].
+- https://www.independent.org/tir/2022-spring/the-machinery-of-government/
+	- Interesting review

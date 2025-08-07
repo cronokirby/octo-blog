@@ -8,3 +8,7 @@ draft: "true"
 - [[Incentives in Information Ecosystems]]
 - The promise of distributed systems
 - Counter Lemire on innovation
+- [[Materia and Culture]]
+- [[The Loneliness of Oppositionalism]]
+- [[Taylorism and Software]]
+- 

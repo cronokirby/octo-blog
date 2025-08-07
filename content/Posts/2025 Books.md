@@ -15,6 +15,7 @@ Books I read in [[2025]].
 - [[(1929) The Sound and The Fury]]
 - [[(2021) Five Decembers]]
 - [[(1989) Remains of the Day]]
+- [[(1976) Will You Please be Quiet, Please?]]
 # Non-Fiction
 - [[(2023) Recoding America]]
 - [[(2025) Why Nothing Works]]
