@@ -11,4 +11,6 @@ draft: "true"
 - [[Materia and Culture]]
 - [[The Loneliness of Oppositionalism]]
 - [[Taylorism and Software]]
-- 
+- [[Don’t Build Magical Devices]]
+- [[Hidden Reliance]]
+- [[What this blog tries to cultivate]]
