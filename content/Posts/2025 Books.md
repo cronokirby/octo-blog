@@ -16,6 +16,7 @@ Books I read in [[2025]].
 - [[(2021) Five Decembers]]
 - [[(1989) Remains of the Day]]
 - [[(1976) Will You Please be Quiet, Please?]]
+- [[(1976) Swag]]
 # Non-Fiction
 - [[(2023) Recoding America]]
 - [[(2025) Why Nothing Works]]
@@ -32,6 +33,7 @@ Books I read in [[2025]].
 - [[(2022) The Right]]
 - [[(2024) The Anxious Generation]]
 - [[(2025) Unforgiving Places]]
+- [[(2009) Raymond Carver; A Writer’s Life]]
 
 # Short Stories
 - [[(1887) A Study in Scarlet]]
