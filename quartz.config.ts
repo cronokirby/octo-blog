@@ -14,16 +14,16 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "quartz.cronokirby.com",
+    baseUrl: "cronokirby.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "IBM Plex Sans",
-        body: "IBM Plex Sans",
-        code: "IBM Plex Mono",
+        header: "Crimson Pro",
+        body: "Crimson Pro",
+        code: "Go Mono",
       },
       colors: {
         lightMode: {
