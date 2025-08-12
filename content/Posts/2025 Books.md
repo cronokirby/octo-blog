@@ -17,6 +17,7 @@ Books I read in [[2025]].
 - [[(1989) Remains of the Day]]
 - [[(1976) Will You Please be Quiet, Please?]]
 - [[(1976) Swag]]
+- [[(1965) Stoner]]
 # Non-Fiction
 - [[(2023) Recoding America]]
 - [[(2025) Why Nothing Works]]
