@@ -8,3 +8,5 @@
 	- Interesting combination of cryptography and [[Local-First Software]].
 - https://www.independent.org/tir/2022-spring/the-machinery-of-government/
 	- Interesting review
+- [[(2025) Typechecker Zoo]]
+	- Worth reading about.
