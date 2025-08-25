@@ -19,6 +19,8 @@ Books I read in [[2025]].
 - [[(1976) Swag]]
 - [[(1965) Stoner]]
 - [[(2022) Septology]]
+- [[(1974) 52 Pickup]]
+- [[(1976) Le Jour de Congé]]
 # Non-Fiction
 - [[(2023) Recoding America]]
 - [[(2025) Why Nothing Works]]
