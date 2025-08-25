@@ -1,0 +1,12 @@
+- https://faiface.github.io/par-lang/introduction.html
+	- [[Par (language)]] seems really interesting, based on [[Linear Types]].
+- [[(2025) If There Were No Journalism, how Would we Find Out]]
+	- Seems like an interesting article about the information crisis of our age.
+- https://oxcaml.org/
+	- Could inform my thoughts on better language design.
+- [[(2025) Homomorphically Encrypting CRDTs]]
+	- Interesting combination of cryptography and [[Local-First Software]].
+- https://www.independent.org/tir/2022-spring/the-machinery-of-government/
+	- Interesting review
+- [[(2025) Typechecker Zoo]]
+	- Worth reading about.

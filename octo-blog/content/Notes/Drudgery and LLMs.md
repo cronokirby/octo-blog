@@ -1,0 +1,3 @@
+Computation excels at automating drudgery. If you need to rename a bunch of files, concatenate a bunch of PDFs, transcode a bunch of videos, a script is often the most effective way to do that.
+
+LLMs, or “AI Agents” can be seen as particularly useful as *extensions* of this kind of automation. They can allow new kinds of information to be processed, and sometimes to allow a looser form of reasoning to better respond to edge cases, or dynamic situations.

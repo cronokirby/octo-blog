@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("book")
+    order:
+      - file.name
+      - published
+      - authors
+    sort:
+      - property: authors
+        direction: DESC

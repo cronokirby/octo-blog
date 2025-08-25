@@ -1,0 +1,25 @@
+@use "./base.scss";
+
+// put your custom CSS here!
+#quartz-body > .center > * {
+  min-width: 100%;
+  max-width: 65ch; /* Approximately 80 characters */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@font-face {
+  font-family: "Go Mono";
+  src: url("/fonts/Go-Mono.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+.katex {
+  font-size: 1.0rem !important;
+}
+
+.katex-display {
+  padding-top: 1px;
+  padding-bottom: 1px;
+}

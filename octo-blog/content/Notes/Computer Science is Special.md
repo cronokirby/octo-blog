@@ -1,0 +1,1 @@
+On one hand, it’s Mathematical, investigating things without empirical observation. On the other, computers enable us to investigate theoretical objects empirically, since we can perform calculations we would not be able to by hand.
