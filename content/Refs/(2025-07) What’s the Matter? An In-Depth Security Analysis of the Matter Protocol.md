@@ -1,0 +1,10 @@
+---
+published: "2025-07-10"
+link: "https://eprint.iacr.org/2025/1268"
+authors: ["[[Sayon Duttagupta]]", "[[Arman Kolozyan]]", "[[Georgio Nicolas]]", "[[Bart Preneel]]", "[[Dave Singelee]]"]
+tags: ["cryptography", "paper"]
+---
+
+# Abstract
+
+> The Matter protocol has emerged as a leading standard for secure IoT interoperability, backed by major vendors such as Apple, Google, Amazon, Samsung, and others. With millions of Matter-certified devices already deployed, its security assurances are critical to the safety of global IoT ecosystems. This paper presents the first in-depth security evaluation and formal analysis of Matter’s core protocols, focusing on its Passcode-Authenticated Session Establishment (PASE) and Certificate Authenticated Session Establishment (CASE) mechanisms. While these are based on the well-studied SPAKE2+ and SIGMA respectively, Matter introduces modifications that compromise the original security guarantees. Our analysis reveals multiple cryptographic design flaws, including low-entropy passcodes, static salts, and weak PBKDF2 parameters – all of which contradict Matter’s own threat model and stated security goals. We highlight cases where Matter delegates critical security decisions to vendors, rather than enforcing robust cryptographic practices in the specification, thereby making the system more fragile and susceptible to exploitation. We formally model both standard and Matter-adapted variants of these protocols in ProVerif, confirming several of Matter’s security goals, but disproving others. Our findings go as far as rendering some of Matter’s own mitigations  insufficient, exposing all Matter-certified devices to threats classified as “High Risk” in their own documentation. As part of our study, we also discovered previously unknown vulnerabilities in Matter’s public codebase, which we responsibly disclosed to the developers, leading to updates in the codebase.

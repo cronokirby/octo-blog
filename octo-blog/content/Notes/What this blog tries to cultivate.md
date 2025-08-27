@@ -1,0 +1,2 @@
+- Discovery
+- Against promotion

@@ -1,0 +1,3 @@
+Stereotypes find their start in real observations. People do certain things, other people notice this, and a meme about this starts to spread. For example, kids not liking vegetables. People notice this, people joke about it, people exaggerate it.
+
+Sometimes, the stereotype becomes self-fulfilling. Kids learn about the trope of them not liking vegetables, and then start to imitate that behavior. In some situations, this is just because of the need for a culturally acceptable outlet to perform certain fundamental emotions. Children need to engage in struggle and boundary testing with their parents. The refusal to eat vegetables is a legible form of this, and one they learn from the ambient culture.

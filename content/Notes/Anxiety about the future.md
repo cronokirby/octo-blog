@@ -1,0 +1,1 @@
+One difference between the past and the future is that we know that periods in the past have ended, and resulted in the present we live in. Anxiety about the future stems from the feeling of uncertainty we have about what is to come. In the most existentialist forms, we have uncertainty that the future is possible at all.

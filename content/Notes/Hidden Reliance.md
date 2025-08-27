@@ -1,0 +1,1 @@
+In the modern world, we rely on the existence of others, but this reliance is nebulous. We are not aware of the extent to which we are dependents, no are we in communion with those we depend on.

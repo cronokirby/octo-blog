@@ -1,0 +1,3 @@
+Free market systems are sometimes decried as “cut-throat”. Success is not guaranteed, but hard-earned, and can often come at the expense of others. Outcomes, as a result, are often greatly unequal.
+
+On the other hand, this competitiveness creates an equality of its own. The rules of the game are stable, consistent, and opportunities are thus easily discovered. On the other hand, systems that try and paper over the inequalities of competition often create competition of their own, only this time in the form of opaque and inscrutable games.
