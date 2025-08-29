@@ -21,6 +21,7 @@ Books I read in [[2025]].
 - [[(2022) Septology]]
 - [[(1974) 52 Pickup]]
 - [[(1976) Le Jour de Congé]]
+- [[(2025) People Like Us]]
 # Non-Fiction
 - [[(2023) Recoding America]]
 - [[(2025) Why Nothing Works]]
