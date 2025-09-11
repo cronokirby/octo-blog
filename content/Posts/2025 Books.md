@@ -23,6 +23,7 @@ Books I read in [[2025]].
 - [[(1976) Le Jour de Congé]]
 - [[(2025) People Like Us]]
 - [[(1982) The Names]]
+- [[(1963) Run River]]
 # Non-Fiction
 - [[(2023) Recoding America]]
 - [[(2025) Why Nothing Works]]
