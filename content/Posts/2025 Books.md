@@ -41,6 +41,8 @@ Books I read in [[2025]].
 - [[(2024) The Anxious Generation]]
 - [[(2025) Unforgiving Places]]
 - [[(2009) Raymond Carver; A Writer’s Life]]
+- [[(2006) Eat Pray Love]]
+- [[(2025) All the Way to the River]]
 
 # Short Stories
 - [[(1887) A Study in Scarlet]]
