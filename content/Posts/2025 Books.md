@@ -24,6 +24,8 @@ Books I read in [[2025]].
 - [[(2025) People Like Us]]
 - [[(1982) The Names]]
 - [[(1963) Run River]]
+- [[(2001) Atonement]]
+
 # Non-Fiction
 - [[(2023) Recoding America]]
 - [[(2025) Why Nothing Works]]
