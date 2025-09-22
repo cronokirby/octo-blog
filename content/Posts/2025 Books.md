@@ -25,6 +25,7 @@ Books I read in [[2025]].
 - [[(1982) The Names]]
 - [[(1963) Run River]]
 - [[(2001) Atonement]]
+- [[(1962) The Man in the High Castle]]
 
 # Non-Fiction
 - [[(2023) Recoding America]]
