@@ -26,6 +26,7 @@ Books I read in [[2025]].
 - [[(1963) Run River]]
 - [[(2001) Atonement]]
 - [[(1962) The Man in the High Castle]]
+- [[(1978) La Rue des Boutiques Obscures]]
 
 # Non-Fiction
 - [[(2023) Recoding America]]
