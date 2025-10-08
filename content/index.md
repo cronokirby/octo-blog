@@ -1,7 +1,9 @@
-Hello! This blog is currently a work in progress, but should hopefully replace my old blog, [https://cronokirby.com](), eventually.
+Hello! I'm Lucas, sometimes known as "cronokirby", and this is a where I collect some of my thoughts.
 
 # About
-I’m currently a core protocol engineer at Penumbra Labs, working on [Penumbra](https://penumbra.zone) a private payments network. Beyond that, I’m a generalist software engineer and cryptographer, and like to dabble in a few different things.
+I'm currently an engineer (software, cryptography) at [Commonware](https://commonware.xyz).
+
+Previously, I worked on [Penumbra](https://penumbra.zone).
 
 # Links
 - [Github](https://github.com/cronokirby)
