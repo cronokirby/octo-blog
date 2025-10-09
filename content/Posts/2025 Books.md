@@ -28,6 +28,7 @@ Books I read in [[2025]].
 - [[(1962) The Man in the High Castle]]
 - [[(1978) La Rue des Boutiques Obscures]]
 - [[(1977) Unknown Man No. 89]]
+- [[(1960) Rabbit, Run]]
 
 # Non-Fiction
 - [[(2023) Recoding America]]
