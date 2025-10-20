@@ -29,6 +29,7 @@ Books I read in [[2025]].
 - [[(1978) La Rue des Boutiques Obscures]]
 - [[(1977) Unknown Man No. 89]]
 - [[(1960) Rabbit, Run]]
+- [[(2015) Solenoid]]
 
 # Non-Fiction
 - [[(2023) Recoding America]]

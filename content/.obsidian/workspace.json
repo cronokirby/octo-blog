@@ -1,54 +1,97 @@
 {
   "main": {
-    "id": "e1bbccdafa251ad5",
+    "id": "d06925b31982f20b",
     "type": "split",
     "children": [
       {
-        "id": "a00a7de31ace3364",
+        "id": "37cb38f826189c32",
         "type": "tabs",
         "children": [
           {
-            "id": "84a81cb5b85b71d3",
+            "id": "72e5aaf3d58deaf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/SNES Emudev.md",
+                "file": "Refs/(2015) Solenoid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SNES Emudev"
+              "title": "(2015) Solenoid"
             }
           },
           {
-            "id": "119bb6e827f4c3a1",
+            "id": "34ffde262eab2ddf",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Posts/2025 Books.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "2025 Books"
+            }
+          },
+          {
+            "id": "74e626abd302a0d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "37c36129e3ef4e3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Refs/(1962) The Man in the High Castle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(1962) The Man in the High Castle"
+            }
+          },
+          {
+            "id": "6e2b9ee87146aa9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Refs/(1963) Run River.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(1963) Run River"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "69205e46b3aba368",
+    "id": "c08cb8106077da80",
     "type": "split",
     "children": [
       {
-        "id": "ed8e449a2c168145",
+        "id": "ae1b671a24ff03c7",
         "type": "tabs",
         "children": [
           {
-            "id": "33fb1c06a9016133",
+            "id": "b5279ac76dcbf8a9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,7 +104,7 @@
             }
           },
           {
-            "id": "8664d45a7f06f541",
+            "id": "5f3846079454a552",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,7 +121,7 @@
             }
           },
           {
-            "id": "41b3c4fcf60acbd4",
+            "id": "04491f09ba6a7727",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,20 +137,20 @@
     "width": 300
   },
   "right": {
-    "id": "be7a524564ea608d",
+    "id": "464b639e2c529125",
     "type": "split",
     "children": [
       {
-        "id": "4694b227c7342238",
+        "id": "99e373a6345c6609",
         "type": "tabs",
         "children": [
           {
-            "id": "e2c0e04c4787d608",
+            "id": "0aa3756a046b2db4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/SNES Emudev.md",
+                "file": "(1976) Le Jour de Congé.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,25 +160,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SNES Emudev"
+              "title": "Backlinks for (1976) Le Jour de Congé"
             }
           },
           {
-            "id": "146e25e642c0fb39",
+            "id": "94e73ca0e7c939d4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/SNES Emudev.md",
+                "file": "(1976) Le Jour de Congé.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SNES Emudev"
+              "title": "Outgoing links from (1976) Le Jour de Congé"
             }
           },
           {
-            "id": "e2b92a89d45ccd35",
+            "id": "c8b085c8b81cb372",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,18 +193,18 @@
             }
           },
           {
-            "id": "2b7c1b53628ce238",
+            "id": "1694788c016dd051",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/SNES Emudev.md",
+                "file": "(1976) Le Jour de Congé.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SNES Emudev"
+              "title": "Outline of (1976) Le Jour de Congé"
             }
           }
         ]
@@ -182,11 +225,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "119bb6e827f4c3a1",
+  "active": "b5279ac76dcbf8a9",
   "lastOpenFiles": [
-    "Refs/(1960) Rabbit, Run.md",
-    "Links/(2025) Fannie and Freddy back again.md",
     "Notes/SNES Emudev.md",
-    "Untitled 1.base"
+    "Posts/2025 Books.md",
+    "Refs/(2015) Solenoid.md",
+    "Refs/(1960) Rabbit, Run.md",
+    "Refs/(1974) 52 Pickup.md",
+    "index.md",
+    "Refs/(1977) Unknown Man No. 89.md",
+    "Refs/(1978) La Rue des Boutiques Obscures.md",
+    "Refs/(1962) The Man in the High Castle.md",
+    "Refs/(1976) Will You Please be Quiet, Please?.md",
+    "Refs/(2009) Raymond Carver; A Writer’s Life.md",
+    "Refs/(2001) Atonement.md",
+    "Refs/(2025) All the Way to the River.md",
+    "Refs/(2006) Eat Pray Love.md",
+    "Refs/(1963) Run River.md",
+    "Refs/(1982) The Names.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Refs/(2025) People Like Us.md",
+    "Refs/(1976) Le Jour de Congé.md"
   ]
 }
