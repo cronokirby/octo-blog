@@ -1,4 +1,9 @@
 {
-  "theme": "moonstone",
-  "cssTheme": "Minimal"
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "textFontFamily": "IBM Plex Mono",
+  "monospaceFontFamily": "IBM Plex Mono",
+  "interfaceFontFamily": "IBM Plex Mono",
+  "baseFontSize": 14,
+  "accentColor": "#97d3cf"
 }

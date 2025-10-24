@@ -30,6 +30,7 @@ Books I read in [[2025]].
 - [[(1977) Unknown Man No. 89]]
 - [[(1960) Rabbit, Run]]
 - [[(2015) Solenoid]]
+- [[(1905) House of Mirth]]
 
 # Non-Fiction
 - [[(2023) Recoding America]]
