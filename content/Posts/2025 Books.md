@@ -31,6 +31,7 @@ Books I read in [[2025]].
 - [[(1960) Rabbit, Run]]
 - [[(2015) Solenoid]]
 - [[(1905) House of Mirth]]
+- [[(1969) Portnoy's Complaint]]
 
 # Non-Fiction
 - [[(2023) Recoding America]]
