@@ -14,11 +14,23 @@
               "type": "markdown",
               "state": {
                 "file": "Posts/2025 Books.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "2025 Books"
+            }
+          },
+          {
+            "id": "ea6e3d3efa8687c1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
             }
           }
         ]
@@ -78,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "464b639e2c529125",
@@ -171,8 +184,11 @@
   },
   "active": "72e5aaf3d58deaf9",
   "lastOpenFiles": [
-    "Refs/(1969) Portnoy's Complaint.md",
+    "(1963) The Ice Palace.md",
     "Posts/2025 Books.md",
+    "(1952) The Old Man and the Sea.md",
+    "(1959) The Poorhouse Fair.md",
+    "Refs/(1969) Portnoy's Complaint.md",
     "Log/2025-06-04.md",
     "Log/2025-06-24.md",
     "Log/2025-06-26.md",
@@ -194,9 +210,6 @@
     "index.md",
     "Refs/(1977) Unknown Man No. 89.md",
     "Refs/(1978) La Rue des Boutiques Obscures.md",
-    "Refs/(1962) The Man in the High Castle.md",
-    "Refs/(1976) Will You Please be Quiet, Please?.md",
-    "Refs/(2009) Raymond Carver; A Writer’s Life.md",
     "Untitled 1.base",
     "Untitled.base"
   ]

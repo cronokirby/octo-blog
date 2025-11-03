@@ -32,6 +32,9 @@ Books I read in [[2025]].
 - [[(2015) Solenoid]]
 - [[(1905) House of Mirth]]
 - [[(1969) Portnoy's Complaint]]
+- [[(1959) The Poorhouse Fair]]
+- [[(1952) The Old Man and the Sea]]
+- [[(1963) The Ice Palace]]
 
 # Non-Fiction
 - [[(2023) Recoding America]]
