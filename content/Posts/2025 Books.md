@@ -64,5 +64,8 @@ Books I read in [[2025]].
 	- [[(1984) Salvador]]
 
 # Dropped
-I don’t aim to finish all the books I read. If anything, I aim to drop books early if I’m not clicking with them, despite an honest effort ; they will be there to read again some day.
+
+Books I didn't finish for some reason. Life is finite.
+
 - [[(2024) America América]]
+- [[(1973) Crash]]
