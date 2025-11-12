@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Log/2025-11-05.md",
+                "file": "Posts/2025 Books.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-05"
+              "title": "2025 Books"
             }
           }
         ]
@@ -169,14 +169,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "a91ce1f75676c80a",
+  "active": "b5279ac76dcbf8a9",
   "lastOpenFiles": [
-    "Notes/Untitled.md",
-    "Log/2025-11-05.md",
+    "Refs/(1929) A Farewell to Arms.md",
     "Notes/Monadic Cryptography in Lean.md",
+    "Log/2025-11-05.md",
+    "Posts/2025 Books.md",
     "Refs/(1973) Crash.md",
     "Podcast.md",
-    "Posts/2025 Books.md",
     "Refs/(1952) The Old Man and the Sea.md",
     "Refs/(1963) The Ice Palace.md",
     "Refs/(1959) The Poorhouse Fair.md",

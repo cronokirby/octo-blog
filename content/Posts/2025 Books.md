@@ -35,6 +35,7 @@ Books I read in [[2025]].
 - [[(1959) The Poorhouse Fair]]
 - [[(1952) The Old Man and the Sea]]
 - [[(1963) The Ice Palace]]
+- [[(1929) A Farewell to Arms]]
 
 # Non-Fiction
 - [[(2023) Recoding America]]
