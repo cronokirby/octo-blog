@@ -36,6 +36,7 @@ Books I read in [[2025]].
 - [[(1952) The Old Man and the Sea]]
 - [[(1963) The Ice Palace]]
 - [[(1929) A Farewell to Arms]]
+- [[(1959) Goodbye Columbus (and 5 short stories)]]
 
 # Non-Fiction
 - [[(2023) Recoding America]]
