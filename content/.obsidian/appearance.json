@@ -1,9 +1,10 @@
 {
   "theme": "obsidian",
   "cssTheme": "Minimal",
-  "textFontFamily": "IBM Plex Mono",
-  "monospaceFontFamily": "IBM Plex Mono",
-  "interfaceFontFamily": "IBM Plex Mono",
+  "textFontFamily": "Courier Prime,IBM Plex Mono",
+  "monospaceFontFamily": "Courier Prime,IBM Plex Mono",
+  "interfaceFontFamily": "Courier Prime,IBM Plex Mono",
   "baseFontSize": 14,
-  "accentColor": "#97b9d3"
+  "accentColor": "#97b9d3",
+  "baseFontSizeAction": true
 }

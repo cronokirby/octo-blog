@@ -242,7 +242,7 @@ In the category of algebras over $F$, this would mean some object $(X, \epsilon_
 $X \to A$ respecting the evaluation for any other algebra $A$. In other words, if some object $A$ has the evaluation map
 $F A \to A$, then we have a morphism $X \to A$.
 
-Now it turns out that we can show ([[2]](/posts/2020/09/recursive-types-as-initial-algebras/#ref-2)) that for this object
+Now it turns out that we can show ([[(2015) Solenoid]](/posts/2020/09/recursive-types-as-initial-algebras/#ref-2)) that for this object
 $X \cong F X$. This means that adding another layer of operations does not change our object at all. Thus,
 in some sense, our object looks like $F F F F \ldots$, and adding another layer of $F$ changes nothing.
 
