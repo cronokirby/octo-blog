@@ -39,6 +39,7 @@ Books I read in [[2025]].
 - [[(1959) Goodbye Columbus (and 5 short stories)]]
 - [[(2023) Yellowface]]
 - [[(2002) Days of Abandonment]]
+- [[(2013) My Struggle; Book 1]]
 
 # Non-Fiction
 - [[(2023) Recoding America]]
