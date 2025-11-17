@@ -37,6 +37,8 @@ Books I read in [[2025]].
 - [[(1963) The Ice Palace]]
 - [[(1929) A Farewell to Arms]]
 - [[(1959) Goodbye Columbus (and 5 short stories)]]
+- [[(2023) Yellowface]]
+- [[(2002) Days of Abandonment]]
 
 # Non-Fiction
 - [[(2023) Recoding America]]

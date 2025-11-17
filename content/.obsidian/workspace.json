@@ -8,17 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c2dd6dc194d49665",
+            "id": "a91ce1f75676c80a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Refs/(2015) Solenoid.md",
-                "mode": "preview",
+                "file": "Refs/(2002) Days of Abandonment.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(2015) Solenoid"
+              "title": "(2002) Days of Abandonment"
+            }
+          },
+          {
+            "id": "c9a3c9fc0b3c39bf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "464b639e2c529125",
@@ -170,35 +179,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "c2dd6dc194d49665",
+  "active": "b5279ac76dcbf8a9",
   "lastOpenFiles": [
     "Posts/2025 Books.md",
-    "Refs/(1929) A Farewell to Arms.md",
+    "Refs/(2002) Days of Abandonment.md",
+    "Refs/(2023) Yellowface.md",
+    "Refs/(2025-11) Vega - Low-Latency Zero-Knowledge Proofs over Existing Credentials.md",
+    "Refs/(2025-11) Time-Lock Encrypted Storage for Blockchains.md",
+    "Refs/(2025-11) QUIC-MLS - Making a Space Security Draft Standard Resilient for Disconnected Environments.md",
+    "Refs/(2025-11) On Reed–Solomon Proximity Gaps Conjectures.md",
+    "Refs/(2025-11) On Proximity Gaps for Reed–Solomon Codes.md",
+    "Refs/(2025-11) Compact, Efficient and Non-Separable Hybrid Signatures.md",
+    "Refs/(2025-11) All Polynomial Generators Preserve Distance with Mutual Correlated Agreement.md",
     "Refs/(1959) Goodbye Columbus (and 5 short stories).md",
-    "Links/(2025) If There Were No Journalism, how Would we Find Out.md",
-    "Podcast.md",
-    "Post Ideas.md",
-    "Projects.md",
     "To Read.md",
-    "Review - Searoad, Ursula Le Guin.md",
     "Untitled.base",
-    "Untitled 1.base",
-    "Untitled.md",
-    "Links/(2025) Fannie and Freddy back again.md",
-    "Posts/Writing-a-Toy-Shell-in-C.md",
-    "2025-11-15.md",
-    "Posts/What-Ive-Been-Working-On-2022-W10.md",
-    "Posts/What-Ive-Been-Working-On-2022-W13.md",
-    "Posts/Wrapping-GtkImContext.md",
-    "Posts/What-I-like-about-Roam-so-far.md",
-    "Posts/Unfold-as-Coalgebra.md",
-    "Posts/Structured-Immersion.md",
-    "Posts/Spaced-Repetition-for-Mathematics.md",
-    "Posts/Introducing-Nuntius.md",
-    "Posts/Categorical-Graphs.md",
-    "Posts/React-Pitfalls-useState-initialization.md",
-    "Posts/Programming-Problem-Run-Length-Encoding.md",
-    "Posts/Some-Cryptography-Books-I-Like.md",
-    "Posts/Poline.md"
+    "Projects.md",
+    "Post Ideas.md",
+    "Papers.md",
+    "index.md",
+    "Posts/On-Multi-Set-Hashing.md",
+    "Posts/Haskell-in-Haskell-1-Setup.md",
+    "Log/2025-06-04.md",
+    "Refs/(1929) A Farewell to Arms.md",
+    "Notes/Monadic Cryptography in Lean.md",
+    "Log/2025-11-05.md",
+    "Refs/(1973) Crash.md",
+    "Podcast.md",
+    "Refs/(1952) The Old Man and the Sea.md",
+    "Refs/(1963) The Ice Palace.md",
+    "Untitled 1.base"
   ]
 }
