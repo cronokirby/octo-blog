@@ -1,7 +1,6 @@
 ---
 created: 2025-01-01
 ---
-
 Books I read in [[2025]].
 
 # Fiction
@@ -41,6 +40,9 @@ Books I read in [[2025]].
 - [[(2002) Days of Abandonment]]
 - [[(2013) My Struggle; Book 1]]
 - [[(1985) White Noise]]
+- [[(1956) Seize the Day]]
+- [[(2020) Boulder]]
+- [[(1956) Giovanni's Room]]
 
 # Non-Fiction
 - [[(2023) Recoding America]]
